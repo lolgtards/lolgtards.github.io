@@ -8,14 +8,11 @@
                 "25% Mana Regeneration",
                 "25% Health Regeneration",
                 "3 gold per 10 seconds",
-                "Support Quest: Earn 500 gold from this item to transform it into Runic Compass and gain the ability to\n                hold wards.",
+                "Support Quest: Earn 500 gold from this item to transform it into Runic Compass and gain the ability to hold wards.",
                 [
-                    "Gold Generation: Gain a charge every 18 seconds, up to 3 charges. While nearby an ally champion, consume",
-                    "a charge to earn gold via the following methods:",
-                    "Damaging abilities and attacks against champions or structures grant 30 (melee) / 28 (ranged)",
-                    "gold.",
-                    "Killing a minion by any means grants you 20 gold and the nearest allied champion the same amount",
-                    "of gold they would have received had they killed the minion."
+                    "Gold Generation: Gain a charge every 18 seconds, up to 3 charges. While nearby an ally champion, consume a charge to earn gold via the following methods:",
+                    "Damaging abilities and attacks against champions or structures grant 30 (melee) / 28 (ranged) gold.",
+                    "Killing a minion by any means grants you 20 gold and the nearest allied champion the same amount of gold they would have received had they killed the minion."
                 ]
             ],
             "imgLink": ""
@@ -28,14 +25,11 @@
                 "50% Mana Regeneration",
                 "50% Health Regeneration",
                 "5 gold per 10 seconds",
-                "Support Quest: Earn 1000 gold from this item to transform it into Runic Compass and gain the ability to\n                hold wards.",
+                "Support Quest: Earn 1000 gold from this item to transform it into Runic Compass and gain the ability to hold wards.",
                 [
-                    "Gold Generation: Gain a charge every 18 seconds, up to 3 charges. While nearby an ally champion, consume",
-                    "a charge to earn gold via the following methods:",
-                    "Damaging abilities and attacks against champions or structures grant 34 (melee) / 32 (ranged)",
-                    "gold.",
-                    "Killing a minion by any means grants you 28 gold and the nearest allied champion the same amount",
-                    "of gold they would have received had they killed the minion."
+                    "Gold Generation: Gain a charge every 18 seconds, up to 3 charges. While nearby an ally champion, consume a charge to earn gold via the following methods:",
+                    "Damaging abilities and attacks against champions or structures grant 34 (melee) / 32 (ranged) gold.",
+                    "Killing a minion by any means grants you 28 gold and the nearest allied champion the same amount of gold they would have received had they killed the minion."
                 ]
             ],
             "imgLink": ""
@@ -43,7 +37,7 @@
         {
             "name": "[NEW] Bounty of Worlds",
             "text": [
-                "You may notice Bounty of Worlds is almost exactly the same item as Runic Compass. Well you noticed\n                right. Bounty of Worlds is an in-between state that allows the item to upgrade into any of the five\n                support item upgrades! Once upgraded it served its purpose. Thank you Bounty of Worlds.",
+                "You may notice Bounty of Worlds is almost exactly the same item as Runic Compass. Well you noticed right. Bounty of Worlds is an in-between state that allows the item to upgrade into any of the five support item upgrades! Once upgraded it served its purpose. Thank you Bounty of Worlds.",
                 "Item Cost: Upgraded from Runic Compass at 1000 gold",
                 "100 Health",
                 "50% Mana Regeneration",
@@ -55,7 +49,7 @@
         {
             "name": "[NEW] All Upgraded Items",
             "text": [
-                "As a note, all upgraded items will share the same stats with the differentiator being the upgrades\n                mentioned below.",
+                "As a note, all upgraded items will share the same stats with the differentiator being the upgrades mentioned below.",
                 "200 Health",
                 "75% Mana Regeneration",
                 "75% Health Regeneration",
@@ -66,35 +60,35 @@
         {
             "name": "[NEW] Celestial Opposition",
             "text": [
-                "Passive - Blessing of the Mountain: Become Blessed to reduce incoming champion damage by 40% (melee) /\n                25% (ranged), lingering for 2 seconds after taking damage from a champion. When the reduction wears off,\n                unleash a shockwave around you that slows nearby enemies by 50% for 1.5 seconds. Effect refreshes after\n                leaving combat for 15 seconds."
+                "Passive - Blessing of the Mountain: Become Blessed to reduce incoming champion damage by 40% (melee) / 25% (ranged), lingering for 2 seconds after taking damage from a champion. When the reduction wears off, unleash a shockwave around you that slows nearby enemies by 50% for 1.5 seconds. Effect refreshes after leaving combat for 15 seconds."
             ],
             "imgLink": ""
         },
         {
             "name": "[NEW] Solstice Sleigh",
             "text": [
-                "Passive: Slowing or Immobilizing an enemy champion grants you and a nearby ally with the lowest amount\n                of health 120 bonus health and 90 movement speed for 4 seconds. 20 second cooldown."
+                "Passive: Slowing or Immobilizing an enemy champion grants you and a nearby ally with the lowest amount of health 120 bonus health and 90 movement speed for 4 seconds. 20 second cooldown."
             ],
             "imgLink": ""
         },
         {
             "name": "[NEW] Bloodsong",
             "text": [
-                "Passive - Spellblade: After using an ability, your next attack is enhanced with an additional 75\n                physical damage on-hit (1.5 second cooldown). If the target is a champion, apply Expose Weakness,\n                increasing the damage they take by 12% (melee) / 8% (ranged) for 6 seconds."
+                "Passive - Spellblade: After using an ability, your next attack is enhanced with an additional 75 physical damage on-hit (1.5 second cooldown). If the target is a champion, apply Expose Weakness, increasing the damage they take by 12% (melee) / 8% (ranged) for 6 seconds."
             ],
             "imgLink": ""
         },
         {
             "name": "[NEW] Dream Maker",
             "text": [
-                "Passive - Dream Maker: Gain a Blue Dream Bubble and a Purple Dream Bubble every 8 seconds. Healing and\n                Shielding another ally blows both Dream Bubbles to them and empowers them for 3 seconds. Blue Bubble\n                reduces 140 incoming damage on the next hit and Purple Bubble grants 90 bonus magic damage on the next\n                hit."
+                "Passive - Dream Maker: Gain a Blue Dream Bubble and a Purple Dream Bubble every 8 seconds. Healing and Shielding another ally blows both Dream Bubbles to them and empowers them for 3 seconds. Blue Bubble reduces 140 incoming damage on the next hit and Purple Bubble grants 90 bonus magic damage on the next hit."
             ],
             "imgLink": ""
         },
         {
             "name": "[NEW] Zaz’Zak’s Realmspike",
             "text": [
-                "Passive - Void Explosion: Dealing ability damage to a champion causes an explosion at their current\n                location that damages the target and nearby enemies, dealing 50 (+3% maximum health) magic damage,\n                capped at 300 against monsters. 3 second cooldown."
+                "Passive - Void Explosion: Dealing ability damage to a champion causes an explosion at their current location that damages the target and nearby enemies, dealing 50 (+3% maximum health) magic damage, capped at 300 against monsters. 3 second cooldown."
             ],
             "imgLink": ""
         }
@@ -114,7 +108,7 @@
                 "20 Ability Haste",
                 "600 Mana",
                 "Ultimate Power: Gain 15 Ability Haste for your Ultimate.",
-                "Ultimate Flames: Whenever you damage an enemy champion with your Ultimate, burn the ground beneath them\n                for 3 seconds, dealing 60 (+6% AP) magic damage every second and reducing their Magic Resistance by\n                (6-12 [level scaling]) for as long as they are on the burning ground."
+                "Ultimate Flames: Whenever you damage an enemy champion with your Ultimate, burn the ground beneath them for 3 seconds, dealing 60 (+6% AP) magic damage every second and reducing their Magic Resistance by (6-12 [level scaling]) for as long as they are on the burning ground."
             ],
             "imgLink": ""
         },
@@ -127,7 +121,7 @@
                 "20 Ability Haste",
                 "600 Mana",
                 "Load: Gain a Shot Charge every 3 seconds, up to a maximum of 6.",
-                "Fire: Damaging abilities consume all Shot charges to deal an additional 40 (+ 8% AP) magic damage to the\n                target and one additional nearby target per charge. If there are insufficient targets in range, for each\n                remaining Shot, repeat the damage on the primary target dealing 35% of the damage."
+                "Fire: Damaging abilities consume all Shot charges to deal an additional 40 (+ 8% AP) magic damage to the target and one additional nearby target per charge. If there are insufficient targets in range, for each remaining Shot, repeat the damage on the primary target dealing 35% of the damage."
             ],
             "imgLink": ""
         },
@@ -139,8 +133,8 @@
                 "90 Ability Power",
                 "10 Magic Penetration",
                 "5% Movement Speed",
-                "[Passive] Stormraider: Dealing 35% of a champion's maximum health within 3 seconds applies Stormsurge to\n                them and grants the user 25% movement speed for 2 seconds. 20 second cooldown.",
-                "Passive - Stormsurge: After 2 seconds, Stormsurge strikes the target with lightning, dealing 100-200\n                (based on level) (+ 50% AP) magic damage to them. If they die to the lightning or before the lightning\n                strikes, it detonates immediately in a large area around them and you gain 30 gold."
+                "Passive - Stormraider: Dealing 35% of a champion's maximum health within 3 seconds applies Stormsurge to them and grants the user 25% movement speed for 2 seconds. 20 second cooldown.",
+                "Passive - Stormsurge: After 2 seconds, Stormsurge strikes the target with lightning, dealing 100-200 (based on level) (+ 50% AP) magic damage to them. If they die to the lightning or before the lightning strikes, it detonates immediately in a large area around them and you gain 30 gold."
             ],
             "imgLink": ""
         },
@@ -163,7 +157,7 @@
                 "70 Ability Power",
                 "15 Ability Haste",
                 "30% Magic Penetration",
-                "Passive - Life From Death: Whenever you get a takedown on an enemy champion within 3 seconds of damaging\n                them, create a healing nova on their location that heals allies for 50 (+50% AP). 60 second cooldown."
+                "Passive - Life From Death: Whenever you get a takedown on an enemy champion within 3 seconds of damaging them, create a healing nova on their location that heals allies for 50 (+50% AP). 60 second cooldown."
             ],
             "imgLink": ""
         },
@@ -175,12 +169,11 @@
                 "70 Ability Power",
                 "15 Ability Haste",
                 "300 Health",
-                "Void Corruption: For each second in combat with enemy champions, deal 2% bonus damage (max 10%). At\n                maximum strength, gain 10% (melee) / 6% (ranged) Omnivamp.",
+                "Void Corruption: For each second in combat with enemy champions, deal 2% bonus damage (max 10%). At maximum strength, gain 10% (melee) / 6% (ranged) Omnivamp.",
                 "Void Infusion: Gain 2% of your bonus health as Ability Power.",
                 [
                     "Omnivamp updated with the following (now only exists on Riftmaker):",
-                    "Omnivamp heals you for a percentage of damage you deal, with reduced effect (33% effectiveness)",
-                    "on minions and monsters.",
+                    "Omnivamp heals you for a percentage of damage you deal, with reduced effect (33% effectiveness) on minions and monsters.",
                     "Omnivamp heals you for the full amount with Pet or AOE damaged"
                 ]
             ],
@@ -193,8 +186,8 @@
                 "Item Recipe: Haunting Guise + Blasting Wand + 850 gold",
                 "90 Ability Power",
                 "300 Health",
-                "Passive - Torment: Dealing damage with abilities causes enemies to burn for 2% maximum health magic\n                damage per second for 3 seconds.",
-                "Passive - Suffering: For each second in combat with enemy champions, gain 2% bonus damage (max at 6%\n                bonus damage)."
+                "Passive - Torment: Dealing damage with abilities causes enemies to burn for 2% maximum health magic damage per second for 3 seconds.",
+                "Passive - Suffering: For each second in combat with enemy champions, gain 2% bonus damage (max at 6% bonus damage)."
             ],
             "imgLink": ""
         },
@@ -205,8 +198,8 @@
                 "Item Recipe: Hextech Alternator + Fiendish Codex + 700 gold",
                 "90 Ability Power",
                 "20 Ability Haste",
-                "Passive - Hypershot: When you deal damage with Abilities to champions at 700 range or greater, reveal\n                them for 6 seconds. Deal 10% increased damage to enemies revealed by Hypershot.",
-                "Passive - Focus: When revealing an enemy with Hypershot, reveal all other enemy champions within 1200\n                range of them for 2 seconds. 30 second cooldown."
+                "Passive - Hypershot: When you deal damage with Abilities to champions at 700 range or greater, reveal them for 6 seconds. Deal 10% increased damage to enemies revealed by Hypershot.",
+                "Passive - Focus: When revealing an enemy with Hypershot, reveal all other enemy champions within 1200 range of them for 2 seconds. 30 second cooldown."
             ],
             "imgLink": ""
         },
@@ -217,7 +210,7 @@
                 "Item Recipe: Amplifying Tome + Amplifying Tome + Cloth Armor + 500 gold",
                 "40 Ability Power",
                 "35 Armor",
-                "Active - Stasis: Use one time only to become Invulnerable and Untargetable for 2.5 seconds. The user is\n                prevented from taking any other actions during this time (transforms into Broken Armguard on use)."
+                "Active - Stasis: Use one time only to become Invulnerable and Untargetable for 2.5 seconds. The user is prevented from taking any other actions during this time (transforms into Broken Armguard on use)."
             ],
             "imgLink": ""
         },
@@ -228,7 +221,7 @@
                 "Item Recipe: Needlessly Large Rod + Hextech Alternator + 850 gold",
                 "120 Ability Power",
                 "12 Magic Penetration",
-                "Passive - Cinderbloom: Magic damage and true damage critically strikes enemies below 35% health, dealing\n                20% increased damage (reduced to 30% increased damage for damage over time and pet effects)."
+                "Passive - Cinderbloom: Magic damage and true damage critically strikes enemies below 35% health, dealing 20% increased damage (reduced to 30% increased damage for damage over time and pet effects)."
             ],
             "imgLink": ""
         },
@@ -241,7 +234,7 @@
                 "250 Health",
                 "25 Ability Haste",
                 "5% Movement Speed",
-                "Passive - Spelldance: Damaging an enemy champion with an ability grants bonus movement speed for 2\n                seconds."
+                "Passive - Spelldance: Damaging an enemy champion with an ability grants bonus movement speed for 2 seconds."
             ],
             "imgLink": ""
         },
@@ -261,9 +254,9 @@
                 "50 Ability Power",
                 "300 Health",
                 "300 Mana",
-                "This item gains 20 Health, 20 Mana, and 4 Ability Power every 60 seconds up to 10 times, for a maximum\n                of 200 Health, 200 Mana, and 40 Ability Power. Upon reaching maximum stacks, gain a level.",
-                "Passive - Eternity: Restore Mana equal to 7% of premitigation damage taken from champions, and Health\n                equal to 25% of Mana spent, up to 20 Health per cast, per second",
-                "Removed: For every 200 healing or mana restored with Eternity, gain 35% bonus movement speed that decays\n                over 3 seconds."
+                "This item gains 20 Health, 20 Mana, and 4 Ability Power every 60 seconds up to 10 times, for a maximum of 200 Health, 200 Mana, and 40 Ability Power. Upon reaching maximum stacks, gain a level.",
+                "Passive - Eternity: Restore Mana equal to 7% of premitigation damage taken from champions, and Health equal to 25% of Mana spent, up to 20 Health per cast, per second",
+                "Removed: For every 200 healing or mana restored with Eternity, gain 35% bonus movement speed that decays over 3 seconds."
             ],
             "imgLink": ""
         }
@@ -282,8 +275,8 @@
                 "55 Attack Damage",
                 "18 Lethality",
                 "15 Ability Haste",
-                "Passive - Energized: Moving and Attacking will generate an Energized Attack. Dashes and Stealth stack\n                Energized 75% faster.",
-                "Passive - Firmament: Your Energized Attack applies 100 bonus physical damage and Slows enemies for 99%\n                for 0.75 seconds. Slow is a melee only."
+                "Passive - Energized: Moving and Attacking will generate an Energized Attack. Dashes and Stealth stack Energized 75% faster.",
+                "Passive - Firmament: Your Energized Attack applies 100 bonus physical damage and Slows enemies for 99% for 0.75 seconds. Slow is a melee only."
             ],
             "imgLink": ""
         },
@@ -295,8 +288,8 @@
                 "60 Attack Damage",
                 "18 Lethality",
                 "20 Ability Haste",
-                "Active - Heretical Slash: Deal 65% total Attack Damage physical damage to nearby enemies. This damage\n                increases to 97.5% total Attack Damage physical damage to enemies below 30% health.",
-                "Passive - Cleave: Attacks deal 40% AD (melee) / 20% AD (ranged) damage to other units within 450 units\n                of the target hit."
+                "Active - Heretical Slash: Deal 65% total Attack Damage physical damage to nearby enemies. This damage increases to 97.5% total Attack Damage physical damage to enemies below 30% health.",
+                "Passive - Cleave: Attacks deal 40% AD (melee) / 20% AD (ranged) damage to other units within 450 units of the target hit."
             ],
             "imgLink": ""
         },
@@ -309,7 +302,7 @@
                 "18 Lethality",
                 "15 Ability Haste",
                 "Passive - Ego: When you kill an enemy champion you are granted a statue of yourself.",
-                "Passive - Eminence: When a champion that you have damaged within the last 3 seconds dies, gain 10 (+1\n                per Statue) Attack Damage for 60 seconds."
+                "Passive - Eminence: When a champion that you have damaged within the last 3 seconds dies, gain 10 (+1 per Statue) Attack Damage for 60 seconds."
             ],
             "imgLink": ""
         },
@@ -321,8 +314,8 @@
                 "55 Attack Damage",
                 "18 Lethality",
                 "6% Movement Speed",
-                "Passive - Murder: After being out of combat with Champions for 8 seconds gains bonus Lethality. This\n                Lethality lasts for 3 seconds after dealing damage to champions.",
-                "Passive - Murderspeed: If a champion dies within 3 seconds of damaging them, gain 150 decaying movement\n                speed for 1.5 seconds."
+                "Passive - Murder: After being out of combat with Champions for 8 seconds gains bonus Lethality. This Lethality lasts for 3 seconds after dealing damage to champions.",
+                "Passive - Murderspeed: If a champion dies within 3 seconds of damaging them, gain 150 decaying movement speed for 1.5 seconds."
             ],
             "imgLink": ""
         },
@@ -375,8 +368,8 @@
                 "600 Health",
                 "40 Magic Resistance",
                 "100% Base Health Regeneration",
-                "Passive - Immolate: Taking or dealing damage causes you to begin dealing magic damage per second to\n                nearby enemies (increased by 25% against minions) for 3 seconds. Taking or dealing damage refreshes the\n                duration of this effect.",
-                "Passive - Moonburn: Killing an enemy (non-ward, non-structure) deals 30 (+3.5% bonus HP) magic damage in\n                an area around them."
+                "Passive - Immolate: Taking or dealing damage causes you to begin dealing magic damage per second to nearby enemies (increased by 25% against minions) for 3 seconds. Taking or dealing damage refreshes the duration of this effect.",
+                "Passive - Moonburn: Killing an enemy (non-ward, non-structure) deals 30 (+3.5% bonus HP) magic damage in an area around them."
             ],
             "imgLink": ""
         },
@@ -388,7 +381,7 @@
                 "400 Health",
                 "55 Armor",
                 "10 Ability Haste",
-                "Passive: While in combat with champions, every 7 seconds, deal magic damage to nearby enemy champions,\n                healing for 175% of the damage dealt."
+                "Passive: While in combat with champions, every 7 seconds, deal magic damage to nearby enemy champions, healing for 175% of the damage dealt."
             ],
             "imgLink": ""
         },
@@ -400,7 +393,7 @@
                 "350 Health",
                 "80 Magic Resistance",
                 "100% Base Health Regeneration",
-                "Passive - Magebane: After not taking damage from champions for 15 seconds, gain a magic shield for 18%\n                of your maximum health."
+                "Passive - Magebane: After not taking damage from champions for 15 seconds, gain a magic shield for 18% of your maximum health."
             ],
             "imgLink": ""
         },
@@ -412,7 +405,7 @@
                 "200 Health",
                 "50 Armor",
                 "50 Magic Resistance",
-                "Passive - Voidborn Resilience: For each second in champion combat gain a stack, up to a maximum of 5\n                stacks. At maximum stacks become empowered, increasing your bonus resists by 25% until end of combat."
+                "Passive - Voidborn Resilience: For each second in champion combat gain a stack, up to a maximum of 5 stacks. At maximum stacks become empowered, increasing your bonus resists by 25% until end of combat."
             ],
             "imgLink": ""
         },
@@ -424,7 +417,7 @@
                 "300 Health",
                 "45 Armor",
                 "5% Movement Speed",
-                "Passive - Shipwrecker: While moving, build up to 40 bonus Move Speed. Your next Attack discharges built\n                up Move Speed to deal up to 40 (+100% base AD) bonus physical damage.",
+                "Passive - Shipwrecker: While moving, build up to 40 bonus Move Speed. Your next Attack discharges built up Move Speed to deal up to 40 (+100% base AD) bonus physical damage.",
                 "Passive - Unsinkable: The strength of movement slowing effects is reduced by 25%."
             ],
             "imgLink": ""
@@ -437,7 +430,7 @@
                 "400 Health",
                 "50 Magic Resistance",
                 "5% Movement Speed",
-                "Passive - Absorb: Taking magic damage from enemy Champions grants a stack of Steadfast (up to a maximum\n                of 8) for 7 seconds. Enemy Immobilizing effects grant an additional 2 stacks. One spell can add a new\n                stack of Steadfast every 1 second.",
+                "Passive - Absorb: Taking magic damage from enemy Champions grants a stack of Steadfast (up to a maximum of 8) for 7 seconds. Enemy Immobilizing effects grant an additional 2 stacks. One spell can add a new stack of Steadfast every 1 second.",
                 "Dissipate: While at 8 stacks of Steadfast, gain 60 Magic Resist and 10% increased Movement Speed."
             ],
             "imgLink": ""
@@ -479,7 +472,7 @@
                 "40 Ability Power",
                 "20 Ability Haste",
                 "125% Mana Regeneration",
-                "Passive - Soul Siphon: Damaging a champion grants a Soul Shard, up to a maximum of 3. Healing or\n                Shielding an ally consumes all Soul Shards and restores 20 Health and deals 55 magic damage per Shard to\n                the nearest enemy champion.",
+                "Passive - Soul Siphon: Damaging a champion grants a Soul Shard, up to a maximum of 3. Healing or Shielding an ally consumes all Soul Shards and restores 20 Health and deals 55 magic damage per Shard to the nearest enemy champion.",
                 "Passive - Dissonance removed"
             ],
             "imgLink": ""
@@ -493,7 +486,7 @@
                 "15 Ability Haste",
                 "125% Mana Regeneration",
                 "8% Heal and Shield Power",
-                "Passive - Rapids: Healing or Shielding allied champions (excluding the user) grants the user 40 Ability\n                Power and 10% bonus Movement Speed over 3 seconds."
+                "Passive - Rapids: Healing or Shielding allied champions (excluding the user) grants the user 40 Ability Power and 10% bonus Movement Speed over 3 seconds."
             ],
             "imgLink": ""
         }
@@ -512,7 +505,7 @@
                 "55 Attack Damage",
                 "15 Ability Haste",
                 "300 Health",
-                "Passive - Lightshield Strike: The first attack against a champion will critically strike for 150% damage\n                and heals for 110% base AD +8% of missing health."
+                "Passive - Lightshield Strike: The first attack against a champion will critically strike for 150% damage and heals for 110% base AD +8% of missing health."
             ],
             "imgLink": ""
         },
@@ -522,7 +515,7 @@
                 "Total Cost: 1200 gold",
                 "Item Recipe: Long Sword + Long Sword + 500 gold",
                 "20 Attack Damage",
-                "Passive - Cleave: Attacks deal 40% AD (melee) / 20% AD (ranged) damage to other units within 450 units\n                of the target hit.",
+                "Passive - Cleave: Attacks deal 40% AD (melee) / 20% AD (ranged) damage to other units within 450 units of the target hit.",
                 "Active - Crescent: Deal 60% physical damage to enemies around you. 10 second cooldown."
             ],
             "imgLink": ""
@@ -535,8 +528,8 @@
                 "70 Attack Damage",
                 "20 Ability Haste",
                 "10 Lifesteal",
-                "Active - Ravenous Crescent: Deal 80% total Attack Damage physical damage to nearby enemies. This damage\n                applies Lifesteal. 10 second cooldown.",
-                "Passive - Cleave: Attacks deal 40% AD (melee) / 20% AD (ranged) damage to other units within 450 units\n                of the target hit."
+                "Active - Ravenous Crescent: Deal 80% total Attack Damage physical damage to nearby enemies. This damage applies Lifesteal. 10 second cooldown.",
+                "Passive - Cleave: Attacks deal 40% AD (melee) / 20% AD (ranged) damage to other units within 450 units of the target hit."
             ],
             "imgLink": ""
         },
@@ -547,8 +540,8 @@
                 "Item Recipe: Tiamat + Tunneler + Ruby Crystal + 600 gold",
                 "55 Attack Damage",
                 "550 Health",
-                "Passive - Cleave: Attacks deal additional physical damage on-hit and deal physical damage to enemies\n                behind the target.",
-                "Active - Titanic Crescent: On your next attack, Cleave will instead deal more physical damage in a\n                larger area."
+                "Passive - Cleave: Attacks deal additional physical damage on-hit and deal physical damage to enemies behind the target.",
+                "Active - Titanic Crescent: On your next attack, Cleave will instead deal more physical damage in a larger area."
             ],
             "imgLink": ""
         },
@@ -583,8 +576,8 @@
                 "65 Attack Damage",
                 "350 Health",
                 "5% Movement Speed",
-                "Passive - Skipper: Basic attacks grant a stack (up to a maximum of 5 stacks). Attacking an enemy\n                champion or epic monster while at max stacks consumers all stacks to deal 150% base AD bonus physical\n                damage, increased to 400% against structures.",
-                "Passive - Boarding Part: Nearby allied Siege and Super Minions gain 15-90 bonus armor and magic\n                resistance (based on level)."
+                "Passive - Skipper: Basic attacks grant a stack (up to a maximum of 5 stacks). Attacking an enemy champion or epic monster while at max stacks consumers all stacks to deal 150% base AD bonus physical damage, increased to 400% against structures.",
+                "Passive - Boarding Part: Nearby allied Siege and Super Minions gain 15-90 bonus armor and magic resistance (based on level)."
             ],
             "imgLink": ""
         },
@@ -596,7 +589,7 @@
                 "50 Attack Damage",
                 "20% Attack Speed",
                 "400 Health",
-                "Active - Halting Slash: Slow enemies in a radius centered around you by 25% and gain 25% bonus movement\n                speed per champion hit that decays over 2 seconds. Can move while casting. 15 second cooldown.",
+                "Active - Halting Slash: Slow enemies in a radius centered around you by 25% and gain 25% bonus movement speed per champion hit that decays over 2 seconds. Can move while casting. 15 second cooldown.",
                 "Passive - Heroic Gait: Dealing physical damage grants you 20 bonus movement speed for 2 seconds."
             ],
             "imgLink": ""
@@ -619,7 +612,7 @@
                 "Total Cost: 3100 gold",
                 "Item Recipe: Kindlegem + Caulfield’s Warhammer + Pickaxe + 325 gold",
                 "Passive - Dragonforce: Your non-ultimate spells gain 15 Ability Haste",
-                "Passive - Focused Will: Spell hits grant stacks, up to 3. Your spells deal 3% increased damage for each\n                stack (up to 9%).",
+                "Passive - Focused Will: Spell hits grant stacks, up to 3. Your spells deal 3% increased damage for each stack (up to 9%).",
                 "Item performance will differ for melee and ranged users."
             ],
             "imgLink": ""
@@ -658,7 +651,7 @@
                 "40 Attack Damage",
                 "30% Attack Speed",
                 "Passive - Shadow: Attacks apply 30 magic damage on-hit.",
-                "Passive - Juxtaposition: Alternate between Light and Dark on-hits each attack. Light attacks grant 3-5\n                armor and magic resist (up to 15-25) for 5 seconds. Dark attacks grant 6% armor penetration and magic\n                penetration (up to 30%) for 5 seconds."
+                "Passive - Juxtaposition: Alternate between Light and Dark on-hits each attack. Light attacks grant 3-5 armor and magic resist (up to 15-25) for 5 seconds. Dark attacks grant 6% armor penetration and magic penetration (up to 30%) for 5 seconds."
             ],
             "imgLink": ""
         },
@@ -669,7 +662,7 @@
                 "Item Recipe: B.F. Sword + Steel Sigil + 950 gold (Note: Stopwatch has been removed)",
                 "55 Attack Damage",
                 "45 Armor",
-                "Passive - Rebirth: Upon taking lethal damage, restores 50% of base health and 100% of maximum mana after\n                4 seconds of stasis. 300 second cooldown."
+                "Passive - Rebirth: Upon taking lethal damage, restores 50% of base health and 100% of maximum mana after 4 seconds of stasis. 300 second cooldown."
             ],
             "imgLink": ""
         },
@@ -682,7 +675,7 @@
                 "30% Attack Speed",
                 "20% Critical Strike Chance",
                 "10% Movement Speed",
-                "Passive - Spectral Waltz: On-attack, basic attacks grant ghosting and a stack of 7% bonus attack speed\n                up to 5 stacks (maximum 35% bonus attack speed)."
+                "Passive - Spectral Waltz: On-attack, basic attacks grant ghosting and a stack of 7% bonus attack speed up to 5 stacks (maximum 35% bonus attack speed)."
             ],
             "imgLink": ""
         }
