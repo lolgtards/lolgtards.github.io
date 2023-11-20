@@ -15,7 +15,7 @@
                     "Killing a minion by any means grants you 20 gold and the nearest allied champion the same amount of gold they would have received had they killed the minion."
                 ]
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_QF2itegT6/1x.webp"
         },
         {
             "name": "[NEW] Runic Compass",
@@ -32,7 +32,7 @@
                     "Killing a minion by any means grants you 28 gold and the nearest allied champion the same amount of gold they would have received had they killed the minion."
                 ]
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_eW1jyLMrO/1x.webp"
         },
         {
             "name": "[NEW] Bounty of Worlds",
@@ -44,58 +44,67 @@
                 "50% Health Regeneration",
                 "5 gold per 10 seconds"
             ],
-            "imgLink": ""
-        },
-        {
-            "name": "[NEW] All Upgraded Items",
-            "text": [
-                "As a note, all upgraded items will share the same stats with the differentiator being the upgrades mentioned below.",
-                "200 Health",
-                "75% Mana Regeneration",
-                "75% Health Regeneration",
-                "5 gold per 10 seconds"
-            ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_SEDhqLzyQ/1x.webp"
         },
         {
             "name": "[NEW] Celestial Opposition",
             "text": [
+                "200 Health",
+                "75% Mana Regeneration",
+                "75% Health Regeneration",
+                "5 gold per 10 seconds",
                 "Passive - Blessing of the Mountain: Become Blessed to reduce incoming champion damage by 40% (melee) / 25% (ranged), lingering for 2 seconds after taking damage from a champion. When the reduction wears off, unleash a shockwave around you that slows nearby enemies by 50% for 1.5 seconds. Effect refreshes after leaving combat for 15 seconds."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_il7MJltO4/1x.webp"
         },
         {
             "name": "[NEW] Solstice Sleigh",
             "text": [
+                "200 Health",
+                "75% Mana Regeneration",
+                "75% Health Regeneration",
+                "5 gold per 10 seconds",
                 "Passive: Slowing or Immobilizing an enemy champion grants you and a nearby ally with the lowest amount of health 120 bonus health and 90 movement speed for 4 seconds. 20 second cooldown."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_0VCiIvlCJ/1x.webp"
         },
         {
             "name": "[NEW] Bloodsong",
             "text": [
+                "200 Health",
+                "75% Mana Regeneration",
+                "75% Health Regeneration",
+                "5 gold per 10 seconds",
                 "Passive - Spellblade: After using an ability, your next attack is enhanced with an additional 75 physical damage on-hit (1.5 second cooldown). If the target is a champion, apply Expose Weakness, increasing the damage they take by 12% (melee) / 8% (ranged) for 6 seconds."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_4GYHSj8iV/1x.webp"
         },
         {
             "name": "[NEW] Dream Maker",
             "text": [
+                "200 Health",
+                "75% Mana Regeneration",
+                "75% Health Regeneration",
+                "5 gold per 10 seconds",
                 "Passive - Dream Maker: Gain a Blue Dream Bubble and a Purple Dream Bubble every 8 seconds. Healing and Shielding another ally blows both Dream Bubbles to them and empowers them for 3 seconds. Blue Bubble reduces 140 incoming damage on the next hit and Purple Bubble grants 90 bonus magic damage on the next hit."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_S5l5XhWZO/1x.webp"
         },
         {
-            "name": "[NEW] Zaz’Zak’s Realmspike",
+            "name": "[NEW] Zaz'Zak's Realmspike",
             "text": [
+                "200 Health",
+                "75% Mana Regeneration",
+                "75% Health Regeneration",
+                "5 gold per 10 seconds",
                 "Passive - Void Explosion: Dealing ability damage to a champion causes an explosion at their current location that damages the target and nearby enemies, dealing 50 (+3% maximum health) magic damage, capped at 300 against monsters. 3 second cooldown."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_abD98pR9z/1x.webp"
         }
     ],
     "Mage Items": [
         {
-            "name": "Removed: Crown of the Shattered Queen, Everfrost, Leeching Leer, Demonic Embrace, Night Harvester, Luden’s",
+            "name": "Removed: Crown of the Shattered Queen, Everfrost, Leeching Leer, Demonic Embrace, Night Harvester, Luden's",
             "text": [],
             "imgLink": ""
         },
@@ -110,10 +119,10 @@
                 "Ultimate Power: Gain 15 Ability Haste for your Ultimate.",
                 "Ultimate Flames: Whenever you damage an enemy champion with your Ultimate, burn the ground beneath them for 3 seconds, dealing 60 (+6% AP) magic damage every second and reducing their Magic Resistance by (6-12 [level scaling]) for as long as they are on the burning ground."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_0pMSpSK1i/1x.webp"
         },
         {
-            "name": "[NEW] Caster’s Companion",
+            "name": "[NEW] Caster's Companion",
             "text": [
                 "Total Cost: 3000 gold",
                 "Item Recipe: Lost Chapter + Hextech Alternator + 700 gold",
@@ -123,7 +132,7 @@
                 "Load: Gain a Shot Charge every 3 seconds, up to a maximum of 6.",
                 "Fire: Damaging abilities consume all Shot charges to deal an additional 40 (+ 8% AP) magic damage to the target and one additional nearby target per charge. If there are insufficient targets in range, for each remaining Shot, repeat the damage on the primary target dealing 35% of the damage."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_jKLTLRaBx/1x.webp"
         },
         {
             "name": "[NEW] Stormsurge",
@@ -136,7 +145,7 @@
                 "Passive - Stormraider: Dealing 35% of a champion's maximum health within 3 seconds applies Stormsurge to them and grants the user 25% movement speed for 2 seconds. 20 second cooldown.",
                 "Passive - Stormsurge: After 2 seconds, Stormsurge strikes the target with lightning, dealing 100-200 (based on level) (+ 50% AP) magic damage to them. If they die to the lightning or before the lightning strikes, it detonates immediately in a large area around them and you gain 30 gold."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_OegO08FOB/1x.webp"
         },
         {
             "name": "[NEW] Haunting Guise",
@@ -147,7 +156,7 @@
                 "200 Health",
                 "Passive - Madness: For each second in combat with enemy champions, deal 2% bonus damage (maximum of 6%)."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_3Ij9Xqe38/1x.webp"
         },
         {
             "name": "[NEW] Cryptbloom",
@@ -159,7 +168,7 @@
                 "30% Magic Penetration",
                 "Passive - Life From Death: Whenever you get a takedown on an enemy champion within 3 seconds of damaging them, create a healing nova on their location that heals allies for 50 (+50% AP). 60 second cooldown."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img__C119farU/1x.webp"
         },
         {
             "name": "Riftmaker",
@@ -177,10 +186,10 @@
                     "Omnivamp heals you for the full amount with Pet or AOE damaged"
                 ]
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/riftmaker/1x.webp"
         },
         {
-            "name": "Liandry’s Torment",
+            "name": "Liandry's Torment",
             "text": [
                 "Total Cost: 3000 gold",
                 "Item Recipe: Haunting Guise + Blasting Wand + 850 gold",
@@ -189,7 +198,7 @@
                 "Passive - Torment: Dealing damage with abilities causes enemies to burn for 2% maximum health magic damage per second for 3 seconds.",
                 "Passive - Suffering: For each second in combat with enemy champions, gain 2% bonus damage (max at 6% bonus damage)."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/liandrys-anguish/1x.webp"
         },
         {
             "name": "Horizon Focus",
@@ -201,10 +210,10 @@
                 "Passive - Hypershot: When you deal damage with Abilities to champions at 700 range or greater, reveal them for 6 seconds. Deal 10% increased damage to enemies revealed by Hypershot.",
                 "Passive - Focus: When revealing an enemy with Hypershot, reveal all other enemy champions within 1200 range of them for 2 seconds. 30 second cooldown."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/horizon-focus/1x.webp"
         },
         {
-            "name": "Seeker’s Armguard",
+            "name": "Seeker's Armguard",
             "text": [
                 "Total Cost: 1600 gold",
                 "Item Recipe: Amplifying Tome + Amplifying Tome + Cloth Armor + 500 gold",
@@ -212,7 +221,7 @@
                 "35 Armor",
                 "Active - Stasis: Use one time only to become Invulnerable and Untargetable for 2.5 seconds. The user is prevented from taking any other actions during this time (transforms into Broken Armguard on use)."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/seekers-armguard/1x.webp"
         },
         {
             "name": "Shadowflame",
@@ -223,7 +232,7 @@
                 "12 Magic Penetration",
                 "Passive - Cinderbloom: Magic damage and true damage critically strikes enemies below 35% health, dealing 20% increased damage (reduced to 30% increased damage for damage over time and pet effects)."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/shadowflame/1x.webp"
         },
         {
             "name": "Cosmic Drive",
@@ -236,7 +245,7 @@
                 "5% Movement Speed",
                 "Passive - Spelldance: Damaging an enemy champion with an ability grants bonus movement speed for 2 seconds."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/cosmic-drive/1x.webp"
         },
         {
             "name": "Amplifying Tome",
@@ -244,7 +253,7 @@
                 "Cost: 400 gold (can you believe we actually did it!?)",
                 "20 Ability Power"
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/amplifying-tome/1x.webp"
         },
         {
             "name": "Rod of Ages",
@@ -258,12 +267,47 @@
                 "Passive - Eternity: Restore Mana equal to 7% of premitigation damage taken from champions, and Health equal to 25% of Mana spent, up to 20 Health per cast, per second",
                 "Removed: For every 200 healing or mana restored with Eternity, gain 35% bonus movement speed that decays over 3 seconds."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/rod-of-ages/1x.webp"
+        },
+        {
+            "name": "Zhonya's Hourglass",
+            "text": [
+                "Total Cost: 3600 gold",
+                "Item Recipe: Needlessly Large Rod + Needlessly Large Rod + 1100 gold",
+                "140 Ability Power",
+                "50 Armor",
+                "Passive - Magical Opus: Increases your total Ability Power by 35%"
+            ],
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/rabadons-deathcap/1x.webp"
+        },
+        {
+            "name": "Zhonya's Hourglass",
+            "text": [
+                "Total Cost: 3250 gold",
+                "Item Recipe: Needlessly Large Rod + Seeker's Armguard + 400 gold",
+                "120 Ability Power",
+                "50 Armor",
+                "Active - Time Stop: Enter Stasis for 2.50 seconds. 120-second cooldown."
+            ],
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/zhonyas-hourglass/1x.webp"
+        },
+        {
+            "name": "Lich Bane",
+            "text": [
+                "Total Cost: 3100 gold",
+                "Total Cost: 3100 gold",
+                "Item Recipe: Sheen + Aether Wisp + Hextech Alternator + 150 gold",
+                "100 Ability Power",
+                "8% Move Speed",
+                "15 Ability Haste",
+                "Passive - Spellblade: After using an Ability, your next Attack is enhanced with an additional 57 = (100% base AD + 50% AP) magic damage on-hit. Spellblade grants 30% Attack Speed while available. 1.5 seconds cooldown."
+            ],
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/lich-bane/1x.webp"
         }
     ],
     "Assassin Items": [
         {
-            "name": "Removed: Duskblade of Draktharr, Prowler’s Claw",
+            "name": "Removed: Duskblade of Draktharr, Prowler's Claw",
             "text": [],
             "imgLink": ""
         },
@@ -278,7 +322,7 @@
                 "Passive - Energized: Moving and Attacking will generate an Energized Attack. Dashes and Stealth stack Energized 75% faster.",
                 "Passive - Firmament: Your Energized Attack applies 100 bonus physical damage and Slows enemies for 99% for 0.75 seconds. Slow is a melee only."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_onIDO-Pk1/1x.webp"
         },
         {
             "name": "[NEW] Profane Hydra",
@@ -291,7 +335,7 @@
                 "Active - Heretical Slash: Deal 65% total Attack Damage physical damage to nearby enemies. This damage increases to 97.5% total Attack Damage physical damage to enemies below 30% health.",
                 "Passive - Cleave: Attacks deal 40% AD (melee) / 20% AD (ranged) damage to other units within 450 units of the target hit."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_jZaOEMwzc/1x.webp"
         },
         {
             "name": "[NEW] Hubris",
@@ -304,7 +348,7 @@
                 "Passive - Ego: When you kill an enemy champion you are granted a statue of yourself.",
                 "Passive - Eminence: When a champion that you have damaged within the last 3 seconds dies, gain 10 (+1 per Statue) Attack Damage for 60 seconds."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_RqfG8jU_m/1x.webp"
         },
         {
             "name": "[NEW] Opportunity",
@@ -317,7 +361,7 @@
                 "Passive - Murder: After being out of combat with Champions for 8 seconds gains bonus Lethality. This Lethality lasts for 3 seconds after dealing damage to champions.",
                 "Passive - Murderspeed: If a champion dies within 3 seconds of damaging them, gain 150 decaying movement speed for 1.5 seconds."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_ID7xiOR98/1x.webp"
         },
         {
             "name": "[NEW] Rectrix",
@@ -327,7 +371,7 @@
                 "20 Attack Damage",
                 "4% Movement Speed"
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_Efyuo6E7d/1x.webp"
         },
         {
             "name": "[NEW] The Brutalizer",
@@ -338,10 +382,10 @@
                 "10 Ability Haste",
                 "8 Lethality"
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_AhhI2MWtw/1x.webp"
         },
         {
-            "name": "Serylda’s Grudge",
+            "name": "Serylda's Grudge",
             "text": [
                 "Total Cost: 3200 gold",
                 "Item Recipe: Brutalizer + Last Whisper + 413 gold",
@@ -351,12 +395,62 @@
                 "Passive - Rancor: Gain 22 (+12%) Lethality Armor Penetration",
                 "Passive - Bitter Cold: Damaging abilities slow enemies below 50% Health by 30% for 1 second"
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/seryldas-grudge/1x.webp"
+        },
+        {
+            "name": "Zoomies",
+            "text": [
+                "Total Cost: 2700 Gold",
+                "Item Recipe: Serrated Dirk + Rectrix + 800 gold",
+                "55 Attack Damage",
+                "18 Lethality",
+                "5% Move Speed",
+                "Passive - Murder: After being out of combat with Champions for 8 seconds gain Bonus Lethality. This Lethality lasts for 3 seconds after dealing damage to champions.",
+                "Passive - Murderspeed: If a champion dies within three seconds of damaging them, gain 150 decaying Move Speed for 1.5 seconds."
+            ],
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/seryldas-grudge/1x.webp"
+        },
+        {
+            "name": "Axiom Arc",
+            "text": [
+                "Total Cost: 3000 gold",
+                "Item Recipe: Brutalizer + Caulfield's Warhammer + 563 gold",
+                "55 Attack Damage",
+                "18 Lethality",
+                "25 Ability Haste",
+                "Passive - Flux: Whenever a Champion dies within 3 seconds of you having damaged them, refund 10 = (10 + 35% Lethality)% of your Ultimate Ability's total cooldown."
+            ],
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/axiom-arc/1x.webp"
+        },
+        {
+            "name": "Youmuu's Ghostblade",
+            "text": [
+                "Total Cost: 2700 gold",
+                "Item Recipe: Serrated Dirk + Rectrix + 800 gold",
+                "60 Attack Damage",
+                "18 Lethality",
+                "Passive - Haunt: Gain 40 Move Speed while out of combat.",
+                "Active - Wraith Step: Gain 20% Move Speed and Ghosting for 6 seconds. 45-second cooldown.",
+                "Ghosting: Ignore collision with other units."
+            ],
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/youmuus-ghostblade/1x.webp"
+        },
+        {
+            "name": "Umbral Glave",
+            "text": [
+                "Total Cost: 2600 gold",
+                "Item Recipe: Long Sword + Serrated Dirk + Long Sword + 800 gold",
+                "50 Attack Damage",
+                "15 Lethality",
+                "15 Ability Haste",
+                "Passive - Blackout: When spotted by an enemy Ward, reveal traps and disable Wards around you for 8 seconds. Your attacks do 3x damage to Wards."
+            ],
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/umbral-glaive/1x.webp"
         }
     ],
     "Tank Items": [
         {
-            "name": "Removed: Turbo Chemtank, Radiant Virtue, Evenshroud, Gargoyle’s Stoneplate, Aegis of the Legion, Lifewell",
+            "name": "Removed: Turbo Chemtank, Radiant Virtue, Evenshroud, Gargoyle's Stoneplate, Aegis of the Legion, Lifewell",
             "text": [],
             "imgLink": ""
         },
@@ -371,7 +465,7 @@
                 "Passive - Immolate: Taking or dealing damage causes you to begin dealing magic damage per second to nearby enemies (increased by 25% against minions) for 3 seconds. Taking or dealing damage refreshes the duration of this effect.",
                 "Passive - Moonburn: Killing an enemy (non-ward, non-structure) deals 30 (+3.5% bonus HP) magic damage in an area around them."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_Dbsh7GIDm/1x.webp"
         },
         {
             "name": "[NEW] Unending Despair",
@@ -383,7 +477,7 @@
                 "10 Ability Haste",
                 "Passive: While in combat with champions, every 7 seconds, deal magic damage to nearby enemy champions, healing for 175% of the damage dealt."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_HhqTrZCz2/1x.webp"
         },
         {
             "name": "[NEW] Kaenic Rookern",
@@ -395,10 +489,10 @@
                 "100% Base Health Regeneration",
                 "Passive - Magebane: After not taking damage from champions for 15 seconds, gain a magic shield for 18% of your maximum health."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_ZW8xzp5cU/1x.webp"
         },
         {
-            "name": "Jak’Sho the Protean",
+            "name": "Jak'Sho the Protean",
             "text": [
                 "Total Cost: 3200 gold",
                 "Item Recipe: Chain Vest + Negatron Cloak + Ruby Crystal + 1100 gold",
@@ -407,10 +501,10 @@
                 "50 Magic Resistance",
                 "Passive - Voidborn Resilience: For each second in champion combat gain a stack, up to a maximum of 5 stacks. At maximum stacks become empowered, increasing your bonus resists by 25% until end of combat."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/jaksho-the-protean/1x.webp"
         },
         {
-            "name": "Dead Man’s Plate",
+            "name": "Dead Man's Plate",
             "text": [
                 "Total Cost: 3100 gold",
                 "Item Recipe: Winged Moonplate + Chain Vest + Ruby Crystal + 1100 gold",
@@ -420,7 +514,7 @@
                 "Passive - Shipwrecker: While moving, build up to 40 bonus Move Speed. Your next Attack discharges built up Move Speed to deal up to 40 (+100% base AD) bonus physical damage.",
                 "Passive - Unsinkable: The strength of movement slowing effects is reduced by 25%."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/dead-mans-plate/1x.webp"
         },
         {
             "name": "Force of Nature",
@@ -433,7 +527,7 @@
                 "Passive - Absorb: Taking magic damage from enemy Champions grants a stack of Steadfast (up to a maximum of 8) for 7 seconds. Enemy Immobilizing effects grant an additional 2 stacks. One spell can add a new stack of Steadfast every 1 second.",
                 "Dissipate: While at 8 stacks of Steadfast, gain 60 Magic Resist and 10% increased Movement Speed."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/force-of-nature/1x.webp"
         }
     ],
     "Enchanter Items": [
@@ -448,7 +542,7 @@
                 "Cost: 250 gold",
                 "5 Ability Haste"
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_ZC6iQmJ9E/1x.webp"
         },
         {
             "name": "[NEW] Dawncore",
@@ -461,7 +555,7 @@
                 "Passive - Dawncore: Gain 3% Heal and Shield Power and 5 Ability Power per 100% Base Mana Regeneration.",
                 "Passive - Summoner Spell Haste: Gain 18 Summoner Spell Haste."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_33rNiLyS7/1x.webp"
         },
         {
             "name": "Echoes of Helia",
@@ -475,7 +569,7 @@
                 "Passive - Soul Siphon: Damaging a champion grants a Soul Shard, up to a maximum of 3. Healing or Shielding an ally consumes all Soul Shards and restores 20 Health and deals 55 magic damage per Shard to the nearest enemy champion.",
                 "Passive - Dissonance removed"
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/echoes-of-helia/1x.webp"
         },
         {
             "name": "Staff of Flowing Water",
@@ -488,7 +582,7 @@
                 "8% Heal and Shield Power",
                 "Passive - Rapids: Healing or Shielding allied champions (excluding the user) grants the user 40 Ability Power and 10% bonus Movement Speed over 3 seconds."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/staff-of-flowing-water/1x.webp"
         }
     ],
     "Fighter Items": [
@@ -501,13 +595,13 @@
             "name": "[NEW] Sundered Sky",
             "text": [
                 "Total Cost: 3100 gold",
-                "Item Recipe: Tunneler + Caulfield’s Warhammer + 900 gold",
+                "Item Recipe: Tunneler + Caulfield's Warhammer + 900 gold",
                 "55 Attack Damage",
                 "15 Ability Haste",
                 "300 Health",
                 "Passive - Lightshield Strike: The first attack against a champion will critically strike for 150% damage and heals for 110% base AD +8% of missing health."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_RSInHKwok/1x.webp"
         },
         {
             "name": "Tiamat (Regained Active)",
@@ -518,20 +612,20 @@
                 "Passive - Cleave: Attacks deal 40% AD (melee) / 20% AD (ranged) damage to other units within 450 units of the target hit.",
                 "Active - Crescent: Deal 60% physical damage to enemies around you. 10 second cooldown."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/tiamat/1x.webp"
         },
         {
             "name": "Ravenous Hydra (Regained Active)",
             "text": [
                 "Total Cost: 3300 gold",
-                "Item Recipe: Tiamat + Caulfield’s Warhammer + Vampiric Scepter + 100 gold",
+                "Item Recipe: Tiamat + Caulfield's Warhammer + Vampiric Scepter + 100 gold",
                 "70 Attack Damage",
                 "20 Ability Haste",
                 "10 Lifesteal",
                 "Active - Ravenous Crescent: Deal 80% total Attack Damage physical damage to nearby enemies. This damage applies Lifesteal. 10 second cooldown.",
                 "Passive - Cleave: Attacks deal 40% AD (melee) / 20% AD (ranged) damage to other units within 450 units of the target hit."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/ravenous-hydra/1x.webp"
         },
         {
             "name": "Titanic Hydra",
@@ -543,7 +637,7 @@
                 "Passive - Cleave: Attacks deal additional physical damage on-hit and deal physical damage to enemies behind the target.",
                 "Active - Titanic Crescent: On your next attack, Cleave will instead deal more physical damage in a larger area."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/titanic-hydra/1x.webp"
         },
         {
             "name": "[New] Nitro Hexaegis",
@@ -556,7 +650,7 @@
                 "Passive: Gain 30 ultimate ability haste.",
                 "Passive: After casting your ultimate, gain 35% attack speed and 15% bonus movement speed for 7 seconds."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_VB9F0YE1_/1x.webp"
         },
         {
             "name": "[New] Tunneler",
@@ -566,7 +660,7 @@
                 "15 Attack Damage",
                 "250 Health"
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_0IQHOm9uz/1x.webp"
         },
         {
             "name": "Hullbreaker",
@@ -579,7 +673,7 @@
                 "Passive - Skipper: Basic attacks grant a stack (up to a maximum of 5 stacks). Attacking an enemy champion or epic monster while at max stacks consumers all stacks to deal 150% base AD bonus physical damage, increased to 400% against structures.",
                 "Passive - Boarding Part: Nearby allied Siege and Super Minions gain 15-90 bonus armor and magic resistance (based on level)."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/hullbreaker/1x.webp"
         },
         {
             "name": "Stridebreaker",
@@ -592,10 +686,10 @@
                 "Active - Halting Slash: Slow enemies in a radius centered around you by 25% and gain 25% bonus movement speed per champion hit that decays over 2 seconds. Can move while casting. 15 second cooldown.",
                 "Passive - Heroic Gait: Dealing physical damage grants you 20 bonus movement speed for 2 seconds."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/stridebreaker/1x.webp"
         },
         {
-            "name": "Wit’s End",
+            "name": "Wit's End",
             "text": [
                 "Total Cost: 2900 gold",
                 "Item Recipe: Recurve Bow + Negatron Cloak + Dagger + 1000 gold",
@@ -604,18 +698,45 @@
                 "20% Tenacity",
                 "Passive - Fray: Attacks apply 15 magic damage on-hit."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/wits-end/1x.webp"
+        },
+        {
+            "name": "Trinity Force",
+            "text": [
+                "Total Cost: 3133 gold",
+                "Item Recipe: Sheen + Phage + Hearthbound Axe + 33 gold",
+                "50 Attack Damage",
+                "33% Attack Speed",
+                "300 Health",
+                "10 Ability Haste",
+                "Passive - Spellblade: After using an Ability, your next Attack is enhanced with an additional 114 = (200% base physical damage). 1.5 seconds cooldown.",
+                "Passive - Quicken: Attacking a unit grants 20 Move Speed for 2 seconds."
+            ],
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/trinity-force/1x.webp"
+        },
+        {
+            "name": "Black Cleaver",
+            "text": [
+                "Total Cost: 3000 gold",
+                "Item Recipe: Kindlegem + Caulfield's Warhammer + Long Sword + 750 gold",
+                "55 Attack Damage",
+                "400 Health",
+                "15 Ability Haste",
+                "Passive - Carve: Dealing physical damage to a champion applies a stack of 4% Armor reduction for 6 seconds (max 24% Armor reduction).",
+                "Passive - Furror: Attacking a unit grants 20 Move Speed for 2 seconds."
+            ],
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/black-cleaver/1x.webp"
         },
         {
             "name": "Spear of Shojin",
             "text": [
                 "Total Cost: 3100 gold",
-                "Item Recipe: Kindlegem + Caulfield’s Warhammer + Pickaxe + 325 gold",
+                "Item Recipe: Kindlegem + Caulfield's Warhammer + Pickaxe + 325 gold",
                 "Passive - Dragonforce: Your non-ultimate spells gain 15 Ability Haste",
                 "Passive - Focused Will: Spell hits grant stacks, up to 3. Your spells deal 3% increased damage for each stack (up to 9%).",
                 "Item performance will differ for melee and ranged users."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/spear-of-shojin/1x.webp"
         },
         {
             "name": "Phage",
@@ -624,7 +745,7 @@
                 "Item Recipe: Ruby Crystal + Long Sword + 350 gold",
                 "Passive - Rage: Attacking a unit grants 20 movement speed for 2 seconds."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/phage/1x.webp"
         },
         {
             "name": "Steel Sigil",
@@ -634,7 +755,7 @@
                 "15 Attack Damage",
                 "30 Armor"
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_vsCYzRJb_/1x.webp"
         }
     ],
     "Marksmen Items": [
@@ -653,7 +774,7 @@
                 "Passive - Shadow: Attacks apply 30 magic damage on-hit.",
                 "Passive - Juxtaposition: Alternate between Light and Dark on-hits each attack. Light attacks grant 3-5 armor and magic resist (up to 15-25) for 5 seconds. Dark attacks grant 6% armor penetration and magic penetration (up to 30%) for 5 seconds."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/articles/art_niAuVBnYUw/art-img_9pCb55-0b/1x.webp"
         },
         {
             "name": "Guardian Angel",
@@ -664,7 +785,7 @@
                 "45 Armor",
                 "Passive - Rebirth: Upon taking lethal damage, restores 50% of base health and 100% of maximum mana after 4 seconds of stasis. 300 second cooldown."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/guardian-angel/1x.webp"
         },
         {
             "name": "Phantom Dancer",
@@ -677,7 +798,18 @@
                 "10% Movement Speed",
                 "Passive - Spectral Waltz: On-attack, basic attacks grant ghosting and a stack of 7% bonus attack speed up to 5 stacks (maximum 35% bonus attack speed)."
             ],
-            "imgLink": ""
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/phantom-dancer/1x.webp"
+        },
+        {
+            "name": "Infinity Edge",
+            "text": [
+                "Total Cost: 3300",
+                "Item Recipe: B.F. Sword + Pickaxe + Cloak of Agility + 525 gold",
+                "+65 Attack Damage",
+                "+20% Critical strike Chance",
+                "+45% Critical Strike Damage"
+            ],
+            "imgLink": "https://cdn.gameleap.com/images/article_assets/league-of-legends/items/infinity-edge/1x.webp"
         }
     ]
 }
