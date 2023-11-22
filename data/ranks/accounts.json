@@ -1,7 +1,7 @@
 {
     "info": "lolgtards data",
-    "scrapeTimestampStart": 1700651312142,
-    "scrapeTimestampEnd": 1700651405360,
+    "scrapeTimestampStart": 1700655221895,
+    "scrapeTimestampEnd": 1700655317477,
     "data": [
         {
             "name": "pompom#rank1",
@@ -10,6 +10,19 @@
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3836.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/euw/pompom-rank1",
             "server": "EUW",
+            "notes": [
+                "Does not support Israel!"
+            ],
+            "alias": "bad person"
+        },
+        {
+            "name": "MyItchyPness#NA1",
+            "rankIndex": 3,
+            "division": "1",
+            "lp": 75,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5534.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/na/MyItchyPness-NA1",
+            "server": "NA",
             "notes": []
         },
         {
@@ -18,18 +31,8 @@
             "division": "2",
             "lp": 17,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6041.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
-            "opggUrl": "https://www.op.gg/summoners/euw/StueyEddie9923",
+            "opggUrl": "https://www.op.gg/summoners/euw/StueyEddie-123",
             "server": "EUW",
-            "notes": []
-        },
-        {
-            "name": "RenTheCat#LAS",
-            "rankIndex": 3,
-            "division": "4",
-            "lp": 50,
-            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3371.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
-            "opggUrl": "https://www.op.gg/summoners/las/RenTheCat-LAS",
-            "server": "LAS",
             "notes": []
         },
         {
@@ -43,15 +46,24 @@
             "notes": []
         },
         {
-            "name": "URPPSMALL#EUW",
+            "name": "RenTheCat#LAS",
+            "rankIndex": 3,
+            "division": "4",
+            "lp": 0,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3371.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/las/RenTheCat-LAS",
+            "server": "LAS",
+            "notes": []
+        },
+        {
+            "name": "UR PP SMALL#EUW",
             "rankIndex": 4,
             "division": "1",
             "lp": 72,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5982.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/euw/URPPSMALL-EUW",
             "server": "EUW",
-            "notes": [],
-            "alias": "pp"
+            "notes": []
         },
         {
             "name": "Angelzz#EUNE",
@@ -69,12 +81,12 @@
             "division": "1",
             "lp": 18,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6278.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
-            "opggUrl": "https://www.op.gg/summoners/eune/endless jihad-EUNE",
+            "opggUrl": "https://www.op.gg/summoners/eune/endlessjihad-EUNE",
             "server": "EUNE",
             "notes": []
         },
         {
-            "name": "MichaelNight#EUW",
+            "name": "Michael Night#EUW",
             "rankIndex": 4,
             "division": "2",
             "lp": 10,
@@ -104,7 +116,7 @@
             "notes": []
         },
         {
-            "name": "tazmirphd#NA1",
+            "name": "tazmir phd#NA1",
             "rankIndex": 4,
             "division": "4",
             "lp": 1,
@@ -114,7 +126,7 @@
             "notes": []
         },
         {
-            "name": "WindUpMerchant#NA1",
+            "name": "Wind Up Merchant#NA1",
             "rankIndex": 4,
             "division": "4",
             "lp": 1,
@@ -154,12 +166,32 @@
             "notes": []
         },
         {
+            "name": "Admiral Arya#EUW",
+            "rankIndex": 5,
+            "division": "4",
+            "lp": 42,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4928.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/euw/AdmiralArya-EUW",
+            "server": "EUW",
+            "notes": []
+        },
+        {
             "name": "Orphan#over",
             "rankIndex": 5,
             "division": "4",
             "lp": 34,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1437.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/euw/Orphan-over",
+            "server": "EUW",
+            "notes": []
+        },
+        {
+            "name": "Noxian Femcel#EUW",
+            "rankIndex": 6,
+            "division": "1",
+            "lp": 31,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6097.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/euw/NoxianFemcel-EUW",
             "server": "EUW",
             "notes": []
         },
@@ -174,22 +206,53 @@
             "notes": []
         },
         {
-            "name": "KingGrey#NA1",
+            "name": "connordavisj#Kali",
+            "rankIndex": 6,
+            "division": "3",
+            "lp": 19,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5994.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/na/connordavisj-Kali",
+            "server": "NA",
+            "notes": []
+        },
+        {
+            "name": "AscorbicAcid#1337",
+            "rankIndex": 6,
+            "division": "4",
+            "lp": 75,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5867.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/na/AscorbicAcid-1337",
+            "server": "NA",
+            "notes": []
+        },
+        {
+            "name": "King Grey#NA1",
             "rankIndex": 6,
             "division": "4",
             "lp": 70,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon659.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/na/KingGrey-NA1",
             "server": "NA",
+            "alias": "King Brown",
             "notes": []
         },
         {
-            "name": "STEELM3NTAL#NA1",
+            "name": "STEEL M3NTAL#NA1",
             "rankIndex": 6,
             "division": "4",
             "lp": 44,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6049.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/na/STEELM3NTAL-NA1",
+            "server": "NA",
+            "notes": []
+        },
+        {
+            "name": "SnowboundSeer#9878",
+            "rankIndex": 6,
+            "division": "4",
+            "lp": 27,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3614.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/na/SnowboundSeer-9878",
             "server": "NA",
             "notes": []
         },
@@ -204,7 +267,7 @@
             "notes": []
         },
         {
-            "name": "MarriedtoTalon#NA1",
+            "name": "Married to Talon#NA1",
             "rankIndex": 7,
             "division": "1",
             "lp": 53,
@@ -264,7 +327,16 @@
             "notes": []
         },
         {
-            "name": "MochiLamb#EUW",
+            "name": "Cute Gwen Sissy#EUW",
+            "rankIndex": 99,
+            "lp": null,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5922.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/euw/CuteGwenSissy-EUW",
+            "server": "EUW",
+            "notes": []
+        },
+        {
+            "name": "Mochi Lamb#EUW",
             "rankIndex": 99,
             "lp": null,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4414.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
@@ -282,7 +354,7 @@
             "notes": []
         },
         {
-            "name": "LoveLyra#NA1",
+            "name": "Love Lyra#NA1",
             "rankIndex": 99,
             "lp": null,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1381.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
@@ -291,23 +363,7 @@
             "notes": []
         },
         {
-            "name": "Jupyter#uoh",
-            "rankIndex": 99,
-            "lp": null,
-            "opggUrl": "https://www.op.gg/summoners/euw/Jupyter-uoh",
-            "server": "EUW",
-            "notes": []
-        },
-        {
-            "name": "Yourbully#000",
-            "rankIndex": 99,
-            "lp": null,
-            "opggUrl": "https://www.op.gg/summoners/euw/Yourbully-000",
-            "server": "EUW",
-            "notes": []
-        },
-        {
-            "name": "BigLincoln#NA1",
+            "name": "Big Lincoln#NA1",
             "rankIndex": 99,
             "lp": null,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon712.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
@@ -327,15 +383,7 @@
             "notes": []
         },
         {
-            "name": "AscorbicAcid#1337",
-            "rankIndex": 99,
-            "lp": null,
-            "opggUrl": "https://www.op.gg/summoners/euw/AscorbicAcid99337",
-            "server": "EUW",
-            "notes": []
-        },
-        {
-            "name": "AppleJelly#NA1",
+            "name": "Apple Jelly#NA1",
             "rankIndex": 99,
             "lp": null,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4763.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
