@@ -1,12 +1,12 @@
 {
     "info": "lolgtards data",
-    "scrapeTimestampStart": 1700655221895,
-    "scrapeTimestampEnd": 1700655317477,
+    "scrapeTimestampStart": 1700764728821,
+    "scrapeTimestampEnd": 1700764832754,
     "data": [
         {
             "name": "pompom#rank1",
             "rankIndex": 0,
-            "lp": 1316,
+            "lp": 1357,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3836.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/euw/pompom-rank1",
             "server": "EUW",
@@ -26,12 +26,12 @@
             "notes": []
         },
         {
-            "name": "StueyEddie#123",
+            "name": "StueyEddie#Stuey",
             "rankIndex": 3,
             "division": "2",
             "lp": 17,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6041.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
-            "opggUrl": "https://www.op.gg/summoners/euw/StueyEddie-123",
+            "opggUrl": "https://www.op.gg/summoners/euw/StueyEddie-stuey",
             "server": "EUW",
             "notes": []
         },
@@ -69,7 +69,7 @@
             "name": "Angelzz#EUNE",
             "rankIndex": 4,
             "division": "1",
-            "lp": 71,
+            "lp": 49,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6335.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/eune/Angelzz-EUNE",
             "server": "EUNE",
@@ -78,8 +78,8 @@
         {
             "name": "endless jihad#EUNE",
             "rankIndex": 4,
-            "division": "1",
-            "lp": 18,
+            "division": "2",
+            "lp": 17,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6278.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/eune/endlessjihad-EUNE",
             "server": "EUNE",
@@ -90,7 +90,7 @@
             "rankIndex": 4,
             "division": "2",
             "lp": 10,
-            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6000.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3182.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/euw/MichaelNight-EUW",
             "server": "EUW",
             "notes": []
@@ -120,7 +120,7 @@
             "rankIndex": 4,
             "division": "4",
             "lp": 1,
-            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6316.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5630.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/na/tazmirphd-NA1",
             "server": "NA",
             "notes": []
@@ -233,14 +233,23 @@
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon659.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/na/KingGrey-NA1",
             "server": "NA",
-            "alias": "King Brown",
+            "notes": []
+        },
+        {
+            "name": "Married to Talon#NA1",
+            "rankIndex": 6,
+            "division": "4",
+            "lp": 58,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3374.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/na/MarriedtoTalon-NA1",
+            "server": "NA",
             "notes": []
         },
         {
             "name": "STEEL M3NTAL#NA1",
             "rankIndex": 6,
             "division": "4",
-            "lp": 44,
+            "lp": 40,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6049.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/na/STEELM3NTAL-NA1",
             "server": "NA",
@@ -263,16 +272,6 @@
             "lp": 0,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5122.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/na/MorgsMid-NA1",
-            "server": "NA",
-            "notes": []
-        },
-        {
-            "name": "Married to Talon#NA1",
-            "rankIndex": 7,
-            "division": "1",
-            "lp": 53,
-            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3374.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
-            "opggUrl": "https://www.op.gg/summoners/na/MarriedtoTalon-NA1",
             "server": "NA",
             "notes": []
         },
@@ -319,8 +318,8 @@
         {
             "name": "MiximumDennis#MixD",
             "rankIndex": 9,
-            "division": "2",
-            "lp": 26,
+            "division": "1",
+            "lp": 0,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5464.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/euw/MiximumDennis-MixD",
             "server": "EUW",
