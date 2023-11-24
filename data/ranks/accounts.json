@@ -1,12 +1,12 @@
 {
     "info": "lolgtards data",
-    "scrapeTimestampStart": 1700764728821,
-    "scrapeTimestampEnd": 1700764832754,
+    "scrapeTimestampStart": 1700807286226,
+    "scrapeTimestampEnd": 1700807434933,
     "data": [
         {
             "name": "pompom#rank1",
             "rankIndex": 0,
-            "lp": 1357,
+            "lp": 1377,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3836.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/euw/pompom-rank1",
             "server": "EUW",
@@ -26,11 +26,21 @@
             "notes": []
         },
         {
+            "name": "I int your promo#9999",
+            "rankIndex": 3,
+            "division": "2",
+            "lp": 23,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6031.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/na/Iintyourpromo-9999",
+            "server": "NA",
+            "notes": []
+        },
+        {
             "name": "StueyEddie#Stuey",
             "rankIndex": 3,
             "division": "2",
             "lp": 17,
-            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6041.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6246.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/euw/StueyEddie-stuey",
             "server": "EUW",
             "notes": []
@@ -46,6 +56,16 @@
             "notes": []
         },
         {
+            "name": "vex briar lover#NA1",
+            "rankIndex": 3,
+            "division": "4",
+            "lp": 0,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6224.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/na/vexbriarlover-NA1",
+            "server": "NA",
+            "notes": []
+        },
+        {
             "name": "RenTheCat#LAS",
             "rankIndex": 3,
             "division": "4",
@@ -53,16 +73,6 @@
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3371.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/las/RenTheCat-LAS",
             "server": "LAS",
-            "notes": []
-        },
-        {
-            "name": "UR PP SMALL#EUW",
-            "rankIndex": 4,
-            "division": "1",
-            "lp": 72,
-            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5982.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
-            "opggUrl": "https://www.op.gg/summoners/euw/URPPSMALL-EUW",
-            "server": "EUW",
             "notes": []
         },
         {
@@ -76,23 +86,33 @@
             "notes": []
         },
         {
-            "name": "endless jihad#EUNE",
+            "name": "Angel Wiggums#7268",
             "rankIndex": 4,
-            "division": "2",
-            "lp": 17,
-            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6278.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
-            "opggUrl": "https://www.op.gg/summoners/eune/endlessjihad-EUNE",
-            "server": "EUNE",
+            "division": "1",
+            "lp": 48,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon21.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/na/AngelWiggums-7268",
+            "server": "NA",
             "notes": []
         },
         {
-            "name": "Michael Night#EUW",
+            "name": "UR PP SMALL#EUW",
             "rankIndex": 4,
-            "division": "2",
-            "lp": 10,
-            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3182.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
-            "opggUrl": "https://www.op.gg/summoners/euw/MichaelNight-EUW",
+            "division": "1",
+            "lp": 41,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5982.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/euw/URPPSMALL-EUW",
             "server": "EUW",
+            "notes": []
+        },
+        {
+            "name": "endless jihad#EUNE",
+            "rankIndex": 4,
+            "division": "1",
+            "lp": 11,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6278.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/eune/endlessjihad-EUNE",
+            "server": "EUNE",
             "notes": []
         },
         {
@@ -106,6 +126,26 @@
             "notes": []
         },
         {
+            "name": "Michael Night#EUW",
+            "rankIndex": 4,
+            "division": "3",
+            "lp": 70,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3182.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/euw/MichaelNight-EUW",
+            "server": "EUW",
+            "notes": []
+        },
+        {
+            "name": "SEE YOU IN HELL#NA1",
+            "rankIndex": 4,
+            "division": "3",
+            "lp": 52,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1116.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/na/SEEYOUINHELL-NA1",
+            "server": "NA",
+            "notes": []
+        },
+        {
             "name": "Throwmatic#EUW",
             "rankIndex": 4,
             "division": "4",
@@ -116,20 +156,10 @@
             "notes": []
         },
         {
-            "name": "tazmir phd#NA1",
-            "rankIndex": 4,
-            "division": "4",
-            "lp": 1,
-            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5630.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
-            "opggUrl": "https://www.op.gg/summoners/na/tazmirphd-NA1",
-            "server": "NA",
-            "notes": []
-        },
-        {
             "name": "Wind Up Merchant#NA1",
             "rankIndex": 4,
             "division": "4",
-            "lp": 1,
+            "lp": 49,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6379.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/na/WindUpMerchant-NA1",
             "server": "NA",
@@ -142,6 +172,16 @@
             "lp": 0,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5982.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/na/JellyfishSloth-NA1",
+            "server": "NA",
+            "notes": []
+        },
+        {
+            "name": "tazmir phd#NA1",
+            "rankIndex": 4,
+            "division": "4",
+            "lp": 0,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5630.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/na/tazmirphd-NA1",
             "server": "NA",
             "notes": []
         },
@@ -236,22 +276,22 @@
             "notes": []
         },
         {
+            "name": "STEEL M3NTAL#NA1",
+            "rankIndex": 6,
+            "division": "4",
+            "lp": 63,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6049.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/na/STEELM3NTAL-NA1",
+            "server": "NA",
+            "notes": []
+        },
+        {
             "name": "Married to Talon#NA1",
             "rankIndex": 6,
             "division": "4",
             "lp": 58,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3374.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/na/MarriedtoTalon-NA1",
-            "server": "NA",
-            "notes": []
-        },
-        {
-            "name": "STEEL M3NTAL#NA1",
-            "rankIndex": 6,
-            "division": "4",
-            "lp": 40,
-            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6049.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
-            "opggUrl": "https://www.op.gg/summoners/na/STEELM3NTAL-NA1",
             "server": "NA",
             "notes": []
         },
@@ -266,6 +306,17 @@
             "notes": []
         },
         {
+            "name": "Alph#4218",
+            "rankIndex": 6,
+            "division": "4",
+            "lp": 1,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6383.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/na/Alph-4218",
+            "server": "NA",
+            "notes": [],
+            "alias": "Doja Yuumi"
+        },
+        {
             "name": "MorgsMid#NA1",
             "rankIndex": 6,
             "division": "4",
@@ -276,12 +327,32 @@
             "notes": []
         },
         {
+            "name": "bestinu#NA1",
+            "rankIndex": 7,
+            "division": "1",
+            "lp": 50,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6073.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/na/bestinu-NA1",
+            "server": "NA",
+            "notes": []
+        },
+        {
             "name": "DabsTheWonderCat#NA1",
             "rankIndex": 7,
             "division": "2",
             "lp": 81,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5119.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/na/DabsTheWonderCat-NA1",
+            "server": "NA",
+            "notes": []
+        },
+        {
+            "name": "PonyPrancer#NA1",
+            "rankIndex": 7,
+            "division": "3",
+            "lp": 86,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon558.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/na/PonyPrancer-NA1",
             "server": "NA",
             "notes": []
         },
