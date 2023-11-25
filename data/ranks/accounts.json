@@ -1,7 +1,7 @@
 {
     "info": "lolgtards data",
-    "scrapeTimestampStart": 1700884815254,
-    "scrapeTimestampEnd": 1700884833548,
+    "timestampStart": 1700884815254,
+    "timestampEnd": 1700884833548,
     "data": [
         {
             "name": "pompom#rank1",
@@ -260,8 +260,7 @@
             "division": 3,
             "lp": 52,
             "winsAndLosses": "153W 131L",
-            "winRate": 53,
-            "alias": "King Brown"
+            "winRate": 53
         },
         {
             "name": "connordavisj#Kali",
