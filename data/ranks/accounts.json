@@ -1,7 +1,7 @@
 {
     "info": "lolgtards data",
-    "scrapeTimestampStart": 1700807286226,
-    "scrapeTimestampEnd": 1700807434933,
+    "scrapeTimestampStart": 1700871433536,
+    "scrapeTimestampEnd": 1700871550515,
     "data": [
         {
             "name": "pompom#rank1",
@@ -29,11 +29,12 @@
             "name": "I int your promo#9999",
             "rankIndex": 3,
             "division": "2",
-            "lp": 23,
+            "lp": 85,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6031.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/na/Iintyourpromo-9999",
             "server": "NA",
-            "notes": []
+            "notes": [],
+            "alias": "Doja Yuumii"
         },
         {
             "name": "StueyEddie#Stuey",
@@ -43,6 +44,16 @@
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6246.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/euw/StueyEddie-stuey",
             "server": "EUW",
+            "notes": []
+        },
+        {
+            "name": "RenTheCat#LAS",
+            "rankIndex": 3,
+            "division": "4",
+            "lp": 32,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3371.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/las/RenTheCat-LAS",
+            "server": "LAS",
             "notes": []
         },
         {
@@ -66,26 +77,6 @@
             "notes": []
         },
         {
-            "name": "RenTheCat#LAS",
-            "rankIndex": 3,
-            "division": "4",
-            "lp": 0,
-            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3371.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
-            "opggUrl": "https://www.op.gg/summoners/las/RenTheCat-LAS",
-            "server": "LAS",
-            "notes": []
-        },
-        {
-            "name": "Angelzz#EUNE",
-            "rankIndex": 4,
-            "division": "1",
-            "lp": 49,
-            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6335.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
-            "opggUrl": "https://www.op.gg/summoners/eune/Angelzz-EUNE",
-            "server": "EUNE",
-            "notes": []
-        },
-        {
             "name": "Angel Wiggums#7268",
             "rankIndex": 4,
             "division": "1",
@@ -106,10 +97,20 @@
             "notes": []
         },
         {
+            "name": "黑鬼杀手#TND7",
+            "rankIndex": 4,
+            "division": "1",
+            "lp": 31,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4864.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/eune/黑鬼杀手-TND7",
+            "server": "EUNE",
+            "notes": []
+        },
+        {
             "name": "endless jihad#EUNE",
             "rankIndex": 4,
             "division": "1",
-            "lp": 11,
+            "lp": 20,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6278.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/eune/endlessjihad-EUNE",
             "server": "EUNE",
@@ -156,12 +157,12 @@
             "notes": []
         },
         {
-            "name": "Wind Up Merchant#NA1",
+            "name": "Wind Up Merchant#1608",
             "rankIndex": 4,
             "division": "4",
             "lp": 49,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6379.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
-            "opggUrl": "https://www.op.gg/summoners/na/WindUpMerchant-NA1",
+            "opggUrl": "https://www.op.gg/summoners/na/WindUpMerchant-1608",
             "server": "NA",
             "notes": []
         },
@@ -249,11 +250,22 @@
             "name": "connordavisj#Kali",
             "rankIndex": 6,
             "division": "3",
-            "lp": 19,
+            "lp": 43,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5994.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/na/connordavisj-Kali",
             "server": "NA",
             "notes": []
+        },
+        {
+            "name": "King Grey#NA1",
+            "rankIndex": 6,
+            "division": "3",
+            "lp": 1,
+            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon659.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
+            "opggUrl": "https://www.op.gg/summoners/na/KingGrey-NA1",
+            "server": "NA",
+            "notes": [],
+            "alias": "King Brown"
         },
         {
             "name": "AscorbicAcid#1337",
@@ -262,16 +274,6 @@
             "lp": 75,
             "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5867.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
             "opggUrl": "https://www.op.gg/summoners/na/AscorbicAcid-1337",
-            "server": "NA",
-            "notes": []
-        },
-        {
-            "name": "King Grey#NA1",
-            "rankIndex": 6,
-            "division": "4",
-            "lp": 70,
-            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon659.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
-            "opggUrl": "https://www.op.gg/summoners/na/KingGrey-NA1",
             "server": "NA",
             "notes": []
         },
@@ -304,17 +306,6 @@
             "opggUrl": "https://www.op.gg/summoners/na/SnowboundSeer-9878",
             "server": "NA",
             "notes": []
-        },
-        {
-            "name": "Alph#4218",
-            "rankIndex": 6,
-            "division": "4",
-            "lp": 1,
-            "iconUrl": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon6383.jpg?image=q_auto,f_png,w_auto&v=1700641403304",
-            "opggUrl": "https://www.op.gg/summoners/na/Alph-4218",
-            "server": "NA",
-            "notes": [],
-            "alias": "Doja Yuumi"
         },
         {
             "name": "MorgsMid#NA1",
