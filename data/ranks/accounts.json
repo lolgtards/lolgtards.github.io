@@ -1,7 +1,7 @@
 {
     "info": "lolgtards data",
-    "timestampStart": 1700884815254,
-    "timestampEnd": 1700884833548,
+    "timestampStart": 1700905926782,
+    "timestampEnd": 1700905945496,
     "data": [
         {
             "name": "pompom#rank1",
@@ -53,6 +53,17 @@
             "winRate": 52
         },
         {
+            "name": "vex briar lover#NA1",
+            "iconId": 6224,
+            "opggAccountRoute": "na/vexbriarlover-NA1",
+            "server": "NA",
+            "rankIndex": 3,
+            "division": 4,
+            "lp": 16,
+            "winsAndLosses": "490W 474L",
+            "winRate": 50
+        },
+        {
             "name": "LilliaButtWiggle#NA1",
             "iconId": 4641,
             "opggAccountRoute": "na/LilliaButtWiggle-NA1",
@@ -75,26 +86,15 @@
             "winRate": 47
         },
         {
-            "name": "vex briar lover#NA1",
-            "iconId": 6224,
-            "opggAccountRoute": "na/vexbriarlover-NA1",
-            "server": "NA",
-            "rankIndex": 3,
-            "division": 4,
-            "lp": 0,
-            "winsAndLosses": "488W 473L",
-            "winRate": 50
-        },
-        {
             "name": "UR PP SMALL#EUW",
             "iconId": 5982,
             "opggAccountRoute": "euw/URPPSMALL-EUW",
             "server": "EUW",
             "rankIndex": 4,
             "division": 1,
-            "lp": 36,
-            "winsAndLosses": "133W 123L",
-            "winRate": 51
+            "lp": 65,
+            "winsAndLosses": "137W 126L",
+            "winRate": 52
         },
         {
             "name": "endless jihad#EUNE",
@@ -114,10 +114,13 @@
             "server": "EUNE",
             "rankIndex": 4,
             "division": 1,
-            "lp": 16,
+            "lp": 1,
             "winsAndLosses": "50W 34L",
             "winRate": 59,
-            "alias": "Janna sissy"
+            "notes": [
+                "janna otp",
+                "endless' duo"
+            ]
         },
         {
             "name": "Auræ#IZZY",
@@ -252,17 +255,6 @@
             "winRate": 60
         },
         {
-            "name": "King Grey#NA1",
-            "iconId": 659,
-            "opggAccountRoute": "na/KingGrey-NA1",
-            "server": "NA",
-            "rankIndex": 6,
-            "division": 3,
-            "lp": 52,
-            "winsAndLosses": "153W 131L",
-            "winRate": 53
-        },
-        {
             "name": "connordavisj#Kali",
             "iconId": 5994,
             "opggAccountRoute": "na/connordavisj-Kali",
@@ -274,14 +266,26 @@
             "winRate": 49
         },
         {
+            "name": "King Grey#NA1",
+            "iconId": 659,
+            "opggAccountRoute": "na/KingGrey-NA1",
+            "server": "NA",
+            "rankIndex": 6,
+            "division": 3,
+            "lp": 30,
+            "winsAndLosses": "154W 133L",
+            "winRate": 53,
+            "alias": "King Brown"
+        },
+        {
             "name": "MorgsMid#NA1",
             "iconId": 5122,
             "opggAccountRoute": "na/MorgsMid-NA1",
             "server": "NA",
             "rankIndex": 6,
-            "division": 4,
-            "lp": 90,
-            "winsAndLosses": "55W 79L",
+            "division": 3,
+            "lp": 15,
+            "winsAndLosses": "56W 79L",
             "winRate": 41
         },
         {
@@ -389,9 +393,9 @@
             "opggAccountRoute": "euw/MiximumDennis-MixD",
             "server": "EUW",
             "rankIndex": 9,
-            "division": 2,
-            "lp": 98,
-            "winsAndLosses": "335W 341L",
+            "division": 1,
+            "lp": 26,
+            "winsAndLosses": "336W 341L",
             "winRate": 49
         },
         {
