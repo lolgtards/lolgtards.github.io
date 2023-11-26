@@ -1,7 +1,7 @@
 {
     "info": "lolgtards data",
-    "timestampStart": 1700964543309,
-    "timestampEnd": 1700964562052,
+    "timestampStart": 1701020739829,
+    "timestampEnd": 1701020760836,
     "data": [
         {
             "name": "pompom#rank1",
@@ -13,9 +13,6 @@
             "lp": 1324,
             "winsAndLosses": "246W 175L",
             "winRate": 58,
-            "notes": [
-                "Does not support Israel!"
-            ],
             "alias": "bad person"
         },
         {
@@ -75,6 +72,32 @@
             "winRate": 58
         },
         {
+            "name": "endless jihad#EUNE",
+            "iconId": 6278,
+            "opggAccountRoute": "eune/endlessjihad-EUNE",
+            "server": "EUNE",
+            "rankIndex": 3,
+            "division": 4,
+            "lp": 1,
+            "winsAndLosses": "228W 214L",
+            "winRate": 51
+        },
+        {
+            "name": "黑鬼杀手#TND7",
+            "iconId": 4864,
+            "opggAccountRoute": "eune/黑鬼杀手-TND7",
+            "server": "EUNE",
+            "rankIndex": 3,
+            "division": 4,
+            "lp": 1,
+            "winsAndLosses": "55W 35L",
+            "winRate": 61,
+            "notes": [
+                "janna otp",
+                "endless' duo"
+            ]
+        },
+        {
             "name": "RenTheCat#LAS",
             "iconId": 3371,
             "opggAccountRoute": "las/RenTheCat-LAS",
@@ -92,35 +115,9 @@
             "server": "NA",
             "rankIndex": 4,
             "division": 1,
-            "lp": 20,
-            "winsAndLosses": "496W 482L",
+            "lp": 44,
+            "winsAndLosses": "502W 486L",
             "winRate": 50
-        },
-        {
-            "name": "endless jihad#EUNE",
-            "iconId": 6278,
-            "opggAccountRoute": "eune/endlessjihad-EUNE",
-            "server": "EUNE",
-            "rankIndex": 4,
-            "division": 1,
-            "lp": 5,
-            "winsAndLosses": "223W 214L",
-            "winRate": 51
-        },
-        {
-            "name": "黑鬼杀手#TND7",
-            "iconId": 4864,
-            "opggAccountRoute": "eune/黑鬼杀手-TND7",
-            "server": "EUNE",
-            "rankIndex": 4,
-            "division": 1,
-            "lp": 0,
-            "winsAndLosses": "51W 35L",
-            "winRate": 59,
-            "notes": [
-                "janna otp",
-                "endless' duo"
-            ]
         },
         {
             "name": "Auræ#IZZY",
@@ -283,8 +280,8 @@
             "server": "NA",
             "rankIndex": 6,
             "division": 3,
-            "lp": 58,
-            "winsAndLosses": "155W 133L",
+            "lp": 38,
+            "winsAndLosses": "156W 135L",
             "winRate": 53
         },
         {
