@@ -1,7 +1,7 @@
 {
     "info": "lolgtards data",
-    "timestampStart": 1700911142951,
-    "timestampEnd": 1700911162003,
+    "timestampStart": 1700964543309,
+    "timestampEnd": 1700964562052,
     "data": [
         {
             "name": "pompom#rank1",
@@ -10,8 +10,8 @@
             "server": "EUW",
             "rankIndex": 0,
             "division": 1,
-            "lp": 1302,
-            "winsAndLosses": "245W 175L",
+            "lp": 1324,
+            "winsAndLosses": "246W 175L",
             "winRate": 58,
             "notes": [
                 "Does not support Israel!"
@@ -36,8 +36,8 @@
             "server": "NA",
             "rankIndex": 3,
             "division": 2,
-            "lp": 60,
-            "winsAndLosses": "49W 50L",
+            "lp": 72,
+            "winsAndLosses": "52W 53L",
             "winRate": 49,
             "alias": "Doja Yuumii"
         },
@@ -51,17 +51,6 @@
             "lp": 6,
             "winsAndLosses": "288W 256L",
             "winRate": 52
-        },
-        {
-            "name": "vex briar lover#NA1",
-            "iconId": 6224,
-            "opggAccountRoute": "na/vexbriarlover-NA1",
-            "server": "NA",
-            "rankIndex": 3,
-            "division": 4,
-            "lp": 16,
-            "winsAndLosses": "490W 474L",
-            "winRate": 50
         },
         {
             "name": "UR PP SMALL#EUW",
@@ -97,14 +86,25 @@
             "winRate": 47
         },
         {
+            "name": "vex briar lover#NA1",
+            "iconId": 6224,
+            "opggAccountRoute": "na/vexbriarlover-NA1",
+            "server": "NA",
+            "rankIndex": 4,
+            "division": 1,
+            "lp": 20,
+            "winsAndLosses": "496W 482L",
+            "winRate": 50
+        },
+        {
             "name": "endless jihad#EUNE",
             "iconId": 6278,
             "opggAccountRoute": "eune/endlessjihad-EUNE",
             "server": "EUNE",
             "rankIndex": 4,
             "division": 1,
-            "lp": 42,
-            "winsAndLosses": "218W 207L",
+            "lp": 5,
+            "winsAndLosses": "223W 214L",
             "winRate": 51
         },
         {
@@ -115,8 +115,12 @@
             "rankIndex": 4,
             "division": 1,
             "lp": 0,
-            "winsAndLosses": "50W 34L",
-            "winRate": 59
+            "winsAndLosses": "51W 35L",
+            "winRate": 59,
+            "notes": [
+                "janna otp",
+                "endless' duo"
+            ]
         },
         {
             "name": "Auræ#IZZY",
@@ -207,6 +211,17 @@
             "winRate": 53
         },
         {
+            "name": "Admiral Arya#INCEL",
+            "iconId": 4928,
+            "opggAccountRoute": "euw/AdmiralArya-INCEL",
+            "server": "EUW",
+            "rankIndex": 5,
+            "division": 4,
+            "lp": 42,
+            "winsAndLosses": "18W 15L",
+            "winRate": 54
+        },
+        {
             "name": "Orphan#over",
             "iconId": 1437,
             "opggAccountRoute": "euw/Orphan-over",
@@ -240,6 +255,17 @@
             "winRate": 50
         },
         {
+            "name": "connordavisj#Kali",
+            "iconId": 5994,
+            "opggAccountRoute": "na/connordavisj-Kali",
+            "server": "NA",
+            "rankIndex": 6,
+            "division": 3,
+            "lp": 90,
+            "winsAndLosses": "38W 37L",
+            "winRate": 50
+        },
+        {
             "name": "AscorbicAcid#1337",
             "iconId": 5867,
             "opggAccountRoute": "na/AscorbicAcid-1337",
@@ -262,17 +288,6 @@
             "winRate": 53
         },
         {
-            "name": "connordavisj#Kali",
-            "iconId": 5994,
-            "opggAccountRoute": "na/connordavisj-Kali",
-            "server": "NA",
-            "rankIndex": 6,
-            "division": 3,
-            "lp": 43,
-            "winsAndLosses": "35W 36L",
-            "winRate": 49
-        },
-        {
             "name": "MorgsMid#NA1",
             "iconId": 5122,
             "opggAccountRoute": "na/MorgsMid-NA1",
@@ -282,6 +297,17 @@
             "lp": 15,
             "winsAndLosses": "56W 79L",
             "winRate": 41
+        },
+        {
+            "name": "SnowboundSeer#9878",
+            "iconId": 3614,
+            "opggAccountRoute": "na/SnowboundSeer-9878",
+            "server": "NA",
+            "rankIndex": 6,
+            "division": 3,
+            "lp": 4,
+            "winsAndLosses": "8W 9L",
+            "winRate": 47
         },
         {
             "name": "STEEL M3NTAL#NA1",
@@ -304,17 +330,6 @@
             "lp": 58,
             "winsAndLosses": "77W 77L",
             "winRate": 50
-        },
-        {
-            "name": "SnowboundSeer#9878",
-            "iconId": 3614,
-            "opggAccountRoute": "na/SnowboundSeer-9878",
-            "server": "NA",
-            "rankIndex": 6,
-            "division": 4,
-            "lp": 15,
-            "winsAndLosses": "5W 9L",
-            "winRate": 35
         },
         {
             "name": "bestinu#NA1",
