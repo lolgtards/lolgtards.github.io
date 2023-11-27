@@ -1,7 +1,7 @@
 {
     "info": "lolgtards data",
-    "timestampStart": 1701076598494,
-    "timestampEnd": 1701076620036,
+    "timestampStart": 1701129406890,
+    "timestampEnd": 1701129427377,
     "data": [
         {
             "name": "pompom#rank1",
@@ -10,8 +10,8 @@
             "server": "EUW",
             "rankIndex": 0,
             "division": 1,
-            "lp": 1294,
-            "winsAndLosses": "247W 177L",
+            "lp": 1352,
+            "winsAndLosses": "251W 178L",
             "winRate": 58,
             "alias": "bad person"
         },
@@ -50,19 +50,15 @@
             "winRate": 52
         },
         {
-            "name": "黑鬼杀手#TND7",
-            "iconId": 23,
-            "opggAccountRoute": "eune/黑鬼杀手-TND7",
-            "server": "EUNE",
+            "name": "RenTheCat#LAS",
+            "iconId": 3371,
+            "opggAccountRoute": "las/RenTheCat-LAS",
+            "server": "LAS",
             "rankIndex": 3,
             "division": 4,
-            "lp": 57,
-            "winsAndLosses": "57W 35L",
-            "winRate": 61,
-            "notes": [
-                "janna otp",
-                "endless' duo"
-            ]
+            "lp": 51,
+            "winsAndLosses": "156W 168L",
+            "winRate": 48
         },
         {
             "name": "Hang junglers#1341",
@@ -109,15 +105,19 @@
             "winRate": 51
         },
         {
-            "name": "RenTheCat#LAS",
-            "iconId": 3371,
-            "opggAccountRoute": "las/RenTheCat-LAS",
-            "server": "LAS",
+            "name": "黑鬼杀手#TND7",
+            "iconId": 23,
+            "opggAccountRoute": "eune/黑鬼杀手-TND7",
+            "server": "EUNE",
             "rankIndex": 3,
             "division": 4,
             "lp": 0,
-            "winsAndLosses": "152W 167L",
-            "winRate": 47
+            "winsAndLosses": "57W 36L",
+            "winRate": 61,
+            "notes": [
+                "janna otp",
+                "endless' duo"
+            ]
         },
         {
             "name": "Auræ#IZZY",
@@ -142,9 +142,9 @@
             "winRate": 63
         },
         {
-            "name": "Michael Night#EUW",
+            "name": "Firestorm#Night",
             "iconId": 6272,
-            "opggAccountRoute": "euw/MichaelNight-EUW",
+            "opggAccountRoute": "euw/Firestorm-Night",
             "server": "EUW",
             "rankIndex": 4,
             "division": 3,
@@ -159,8 +159,8 @@
             "server": "NA",
             "rankIndex": 4,
             "division": 3,
-            "lp": 0,
-            "winsAndLosses": "510W 504L",
+            "lp": 58,
+            "winsAndLosses": "513W 504L",
             "winRate": 50
         },
         {
@@ -173,17 +173,6 @@
             "lp": 95,
             "winsAndLosses": "18W 19L",
             "winRate": 48
-        },
-        {
-            "name": "Wind Up Merchant#1608",
-            "iconId": 6379,
-            "opggAccountRoute": "na/WindUpMerchant-1608",
-            "server": "NA",
-            "rankIndex": 4,
-            "division": 4,
-            "lp": 36,
-            "winsAndLosses": "275W 250L",
-            "winRate": 52
         },
         {
             "name": "topdank#NA1",
@@ -220,6 +209,17 @@
             "notes": [
                 "big penis jihadist huge muscles"
             ]
+        },
+        {
+            "name": "Wind Up Merchant#1608",
+            "iconId": 6379,
+            "opggAccountRoute": "na/WindUpMerchant-1608",
+            "server": "NA",
+            "rankIndex": 4,
+            "division": 4,
+            "lp": 0,
+            "winsAndLosses": "275W 252L",
+            "winRate": 52
         },
         {
             "name": "ZoeOrnnyForZoey#NA1",
@@ -283,8 +283,8 @@
             "server": "NA",
             "rankIndex": 6,
             "division": 2,
-            "lp": 22,
-            "winsAndLosses": "159W 135L",
+            "lp": 51,
+            "winsAndLosses": "161W 136L",
             "winRate": 54
         },
         {
@@ -338,8 +338,8 @@
             "server": "NA",
             "rankIndex": 6,
             "division": 3,
-            "lp": 4,
-            "winsAndLosses": "8W 9L",
+            "lp": 14,
+            "winsAndLosses": "9W 10L",
             "winRate": 47
         },
         {
@@ -442,25 +442,14 @@
             "winRate": 36
         },
         {
-            "name": "Caatra#NA1",
-            "iconId": 6228,
-            "opggAccountRoute": "na/Caatra-NA1",
-            "server": "NA",
-            "rankIndex": 8,
-            "division": 4,
-            "lp": 44,
-            "winsAndLosses": "252W 256L",
-            "winRate": 49
-        },
-        {
             "name": "MiximumDennis#MixD",
             "iconId": 5464,
             "opggAccountRoute": "euw/MiximumDennis-MixD",
             "server": "EUW",
             "rankIndex": 9,
             "division": 1,
-            "lp": 0,
-            "winsAndLosses": "336W 343L",
+            "lp": 50,
+            "winsAndLosses": "339W 344L",
             "winRate": 49
         },
         {
