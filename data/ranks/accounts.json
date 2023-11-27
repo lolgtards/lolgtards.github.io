@@ -1,7 +1,7 @@
 {
     "info": "lolgtards data",
-    "timestampStart": 1701064968876,
-    "timestampEnd": 1701064989324,
+    "timestampStart": 1701076598494,
+    "timestampEnd": 1701076620036,
     "data": [
         {
             "name": "pompom#rank1",
@@ -159,8 +159,8 @@
             "server": "NA",
             "rankIndex": 4,
             "division": 3,
-            "lp": 12,
-            "winsAndLosses": "508W 501L",
+            "lp": 0,
+            "winsAndLosses": "510W 504L",
             "winRate": 50
         },
         {
@@ -216,7 +216,10 @@
             "division": 4,
             "lp": 0,
             "winsAndLosses": "103W 110L",
-            "winRate": 48
+            "winRate": 48,
+            "notes": [
+                "big penis jihadist huge muscles"
+            ]
         },
         {
             "name": "ZoeOrnnyForZoey#NA1",
@@ -274,6 +277,17 @@
             "winRate": 56
         },
         {
+            "name": "King Grey#NA1",
+            "iconId": 659,
+            "opggAccountRoute": "na/KingGrey-NA1",
+            "server": "NA",
+            "rankIndex": 6,
+            "division": 2,
+            "lp": 22,
+            "winsAndLosses": "159W 135L",
+            "winRate": 54
+        },
+        {
             "name": "connordavisj#Kali",
             "iconId": 5994,
             "opggAccountRoute": "na/connordavisj-Kali",
@@ -305,17 +319,6 @@
             "lp": 74,
             "winsAndLosses": "14W 9L",
             "winRate": 60
-        },
-        {
-            "name": "King Grey#NA1",
-            "iconId": 659,
-            "opggAccountRoute": "na/KingGrey-NA1",
-            "server": "NA",
-            "rankIndex": 6,
-            "division": 3,
-            "lp": 66,
-            "winsAndLosses": "157W 135L",
-            "winRate": 53
         },
         {
             "name": "MorgsMid#NA1",
@@ -417,6 +420,17 @@
             "winRate": 50
         },
         {
+            "name": "Pieps#2INT",
+            "iconId": 5657,
+            "opggAccountRoute": "na/Pieps-2INT",
+            "server": "NA",
+            "rankIndex": 7,
+            "division": 4,
+            "lp": 0,
+            "winsAndLosses": "129W 140L",
+            "winRate": 47
+        },
+        {
             "name": "dieirlifyoufeed#NA1",
             "iconId": 907,
             "opggAccountRoute": "na/dieirlifyoufeed-NA1",
@@ -463,16 +477,6 @@
             "opggAccountRoute": "euw/CuteGwenSissy-EUW",
             "server": "EUW",
             "rankIndex": 99
-        },
-        {
-            "name": "Mochi Lamb#EUW",
-            "iconId": 4414,
-            "opggAccountRoute": "euw/MochiLamb-EUW",
-            "server": "EUW",
-            "rankIndex": 99,
-            "notes": [
-                "sketchy ass nigga"
-            ]
         },
         {
             "name": "Supportposter#NA1",
