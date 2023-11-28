@@ -1,7 +1,7 @@
 {
     "info": "lolgtards data",
-    "timestampStart": 1701185174124,
-    "timestampEnd": 1701185194652,
+    "timestampStart": 1701205500922,
+    "timestampEnd": 1701205521602,
     "data": [
         {
             "name": "pompom#rank1",
@@ -50,6 +50,32 @@
             "winRate": 52
         },
         {
+            "name": "UR PP SMALL#EUW",
+            "iconId": 5982,
+            "opggAccountRoute": "euw/URPPSMALL-EUW",
+            "server": "EUW",
+            "rankIndex": 3,
+            "division": 4,
+            "lp": 40,
+            "winsAndLosses": "141W 132L",
+            "winRate": 51
+        },
+        {
+            "name": "黑鬼杀手#TND7",
+            "iconId": 55,
+            "opggAccountRoute": "eune/黑鬼杀手-TND7",
+            "server": "EUNE",
+            "rankIndex": 3,
+            "division": 3,
+            "lp": 34,
+            "winsAndLosses": "62W 37L",
+            "winRate": 62,
+            "notes": [
+                "janna otp",
+                "endless' duo"
+            ]
+        },
+        {
             "name": "Hang junglers#1341",
             "iconId": 21,
             "opggAccountRoute": "na/Hangjunglers-1341",
@@ -59,21 +85,6 @@
             "lp": 21,
             "winsAndLosses": "98W 73L",
             "winRate": 57
-        },
-        {
-            "name": "黑鬼杀手#TND7",
-            "iconId": 55,
-            "opggAccountRoute": "eune/黑鬼杀手-TND7",
-            "server": "EUNE",
-            "rankIndex": 3,
-            "division": 4,
-            "lp": 17,
-            "winsAndLosses": "59W 37L",
-            "winRate": 61,
-            "notes": [
-                "janna otp",
-                "endless' duo"
-            ]
         },
         {
             "name": "RenTheCat#LAS",
@@ -109,15 +120,15 @@
             "winRate": 51
         },
         {
-            "name": "UR PP SMALL#EUW",
-            "iconId": 5982,
-            "opggAccountRoute": "euw/URPPSMALL-EUW",
-            "server": "EUW",
-            "rankIndex": 3,
-            "division": 4,
-            "lp": 0,
-            "winsAndLosses": "139W 127L",
-            "winRate": 52
+            "name": "vex briar lover#NA1",
+            "iconId": 6224,
+            "opggAccountRoute": "na/vexbriarlover-NA1",
+            "server": "NA",
+            "rankIndex": 4,
+            "division": 3,
+            "lp": 99,
+            "winsAndLosses": "524W 512L",
+            "winRate": 50
         },
         {
             "name": "Auræ#IZZY",
@@ -153,17 +164,6 @@
             "winRate": 46
         },
         {
-            "name": "vex briar lover#NA1",
-            "iconId": 6224,
-            "opggAccountRoute": "na/vexbriarlover-NA1",
-            "server": "NA",
-            "rankIndex": 4,
-            "division": 3,
-            "lp": 0,
-            "winsAndLosses": "519W 512L",
-            "winRate": 50
-        },
-        {
             "name": "Throwmatic#EUW",
             "iconId": 4961,
             "opggAccountRoute": "euw/Throwmatic-EUW",
@@ -173,17 +173,6 @@
             "lp": 95,
             "winsAndLosses": "18W 19L",
             "winRate": 48
-        },
-        {
-            "name": "Wind Up Merchant#1608",
-            "iconId": 6379,
-            "opggAccountRoute": "na/WindUpMerchant-1608",
-            "server": "NA",
-            "rankIndex": 4,
-            "division": 4,
-            "lp": 15,
-            "winsAndLosses": "276W 253L",
-            "winRate": 52
         },
         {
             "name": "topdank#NA1",
@@ -220,6 +209,17 @@
             "notes": [
                 "big penis jihadist huge muscles"
             ]
+        },
+        {
+            "name": "Wind Up Merchant#1608",
+            "iconId": 6379,
+            "opggAccountRoute": "na/WindUpMerchant-1608",
+            "server": "NA",
+            "rankIndex": 4,
+            "division": 4,
+            "lp": 0,
+            "winsAndLosses": "276W 254L",
+            "winRate": 52
         },
         {
             "name": "ZoeOrnnyForZoey#NA1",
