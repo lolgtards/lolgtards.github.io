@@ -1,7 +1,7 @@
 {
     "info": "lolgtards data",
-    "timestampStart": 1701129406890,
-    "timestampEnd": 1701129427377,
+    "timestampStart": 1701174964495,
+    "timestampEnd": 1701174985575,
     "data": [
         {
             "name": "pompom#rank1",
@@ -10,8 +10,8 @@
             "server": "EUW",
             "rankIndex": 0,
             "division": 1,
-            "lp": 1352,
-            "winsAndLosses": "251W 178L",
+            "lp": 1349,
+            "winsAndLosses": "252W 179L",
             "winRate": 58,
             "alias": "bad person"
         },
@@ -50,17 +50,6 @@
             "winRate": 52
         },
         {
-            "name": "RenTheCat#LAS",
-            "iconId": 3371,
-            "opggAccountRoute": "las/RenTheCat-LAS",
-            "server": "LAS",
-            "rankIndex": 3,
-            "division": 4,
-            "lp": 51,
-            "winsAndLosses": "156W 168L",
-            "winRate": 48
-        },
-        {
             "name": "Hang junglers#1341",
             "iconId": 21,
             "opggAccountRoute": "na/Hangjunglers-1341",
@@ -70,6 +59,17 @@
             "lp": 21,
             "winsAndLosses": "98W 73L",
             "winRate": 57
+        },
+        {
+            "name": "RenTheCat#LAS",
+            "iconId": 3371,
+            "opggAccountRoute": "las/RenTheCat-LAS",
+            "server": "LAS",
+            "rankIndex": 3,
+            "division": 4,
+            "lp": 9,
+            "winsAndLosses": "158W 171L",
+            "winRate": 48
         },
         {
             "name": "UR PP SMALL#EUW",
@@ -106,7 +106,7 @@
         },
         {
             "name": "黑鬼杀手#TND7",
-            "iconId": 23,
+            "iconId": 55,
             "opggAccountRoute": "eune/黑鬼杀手-TND7",
             "server": "EUNE",
             "rankIndex": 3,
@@ -159,8 +159,8 @@
             "server": "NA",
             "rankIndex": 4,
             "division": 3,
-            "lp": 58,
-            "winsAndLosses": "513W 504L",
+            "lp": 0,
+            "winsAndLosses": "519W 512L",
             "winRate": 50
         },
         {
@@ -218,7 +218,7 @@
             "rankIndex": 4,
             "division": 4,
             "lp": 0,
-            "winsAndLosses": "275W 252L",
+            "winsAndLosses": "275W 253L",
             "winRate": 52
         },
         {
@@ -283,9 +283,9 @@
             "server": "NA",
             "rankIndex": 6,
             "division": 2,
-            "lp": 51,
-            "winsAndLosses": "161W 136L",
-            "winRate": 54
+            "lp": 52,
+            "winsAndLosses": "165W 141L",
+            "winRate": 53
         },
         {
             "name": "connordavisj#Kali",
@@ -294,9 +294,9 @@
             "server": "NA",
             "rankIndex": 6,
             "division": 2,
-            "lp": 16,
-            "winsAndLosses": "39W 37L",
-            "winRate": 51
+            "lp": 3,
+            "winsAndLosses": "40W 39L",
+            "winRate": 50
         },
         {
             "name": "SorcShoes#NA1",
@@ -415,9 +415,9 @@
             "server": "NA",
             "rankIndex": 7,
             "division": 3,
-            "lp": 0,
-            "winsAndLosses": "48W 48L",
-            "winRate": 50
+            "lp": 51,
+            "winsAndLosses": "50W 48L",
+            "winRate": 51
         },
         {
             "name": "Pieps#2INT",
@@ -493,7 +493,7 @@
         },
         {
             "name": "b3llamy#NA1",
-            "iconId": 4561,
+            "iconId": 4555,
             "opggAccountRoute": "na/b3llamy-NA1",
             "server": "NA",
             "rankIndex": 99
