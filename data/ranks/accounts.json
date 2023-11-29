@@ -1,7 +1,7 @@
 {
     "info": "lolgtards data",
-    "timestampStart": 1701205500922,
-    "timestampEnd": 1701205521602,
+    "timestampStart": 1701246384149,
+    "timestampEnd": 1701246405111,
     "data": [
         {
             "name": "pompom#rank1",
@@ -10,8 +10,8 @@
             "server": "EUW",
             "rankIndex": 0,
             "division": 1,
-            "lp": 1349,
-            "winsAndLosses": "252W 179L",
+            "lp": 1348,
+            "winsAndLosses": "253W 180L",
             "winRate": 58,
             "alias": "bad person"
         },
@@ -50,17 +50,6 @@
             "winRate": 52
         },
         {
-            "name": "UR PP SMALL#EUW",
-            "iconId": 5982,
-            "opggAccountRoute": "euw/URPPSMALL-EUW",
-            "server": "EUW",
-            "rankIndex": 3,
-            "division": 4,
-            "lp": 40,
-            "winsAndLosses": "141W 132L",
-            "winRate": 51
-        },
-        {
             "name": "黑鬼杀手#TND7",
             "iconId": 55,
             "opggAccountRoute": "eune/黑鬼杀手-TND7",
@@ -76,6 +65,17 @@
             ]
         },
         {
+            "name": "UR PP SMALL#EUW",
+            "iconId": 5982,
+            "opggAccountRoute": "euw/URPPSMALL-EUW",
+            "server": "EUW",
+            "rankIndex": 3,
+            "division": 4,
+            "lp": 40,
+            "winsAndLosses": "141W 132L",
+            "winRate": 51
+        },
+        {
             "name": "Hang junglers#1341",
             "iconId": 21,
             "opggAccountRoute": "na/Hangjunglers-1341",
@@ -85,17 +85,6 @@
             "lp": 21,
             "winsAndLosses": "98W 73L",
             "winRate": 57
-        },
-        {
-            "name": "RenTheCat#LAS",
-            "iconId": 3371,
-            "opggAccountRoute": "las/RenTheCat-LAS",
-            "server": "LAS",
-            "rankIndex": 3,
-            "division": 4,
-            "lp": 9,
-            "winsAndLosses": "158W 171L",
-            "winRate": 48
         },
         {
             "name": "LilliaButtWiggle#NA1",
@@ -120,19 +109,8 @@
             "winRate": 51
         },
         {
-            "name": "vex briar lover#NA1",
-            "iconId": 6224,
-            "opggAccountRoute": "na/vexbriarlover-NA1",
-            "server": "NA",
-            "rankIndex": 4,
-            "division": 3,
-            "lp": 99,
-            "winsAndLosses": "524W 512L",
-            "winRate": 50
-        },
-        {
             "name": "Auræ#IZZY",
-            "iconId": 6064,
+            "iconId": 5865,
             "opggAccountRoute": "euw/Auræ-IZZY",
             "server": "EUW",
             "rankIndex": 4,
@@ -164,6 +142,17 @@
             "winRate": 46
         },
         {
+            "name": "vex briar lover#NA1",
+            "iconId": 6224,
+            "opggAccountRoute": "na/vexbriarlover-NA1",
+            "server": "NA",
+            "rankIndex": 4,
+            "division": 3,
+            "lp": 0,
+            "winsAndLosses": "530W 522L",
+            "winRate": 50
+        },
+        {
             "name": "Throwmatic#EUW",
             "iconId": 4961,
             "opggAccountRoute": "euw/Throwmatic-EUW",
@@ -173,6 +162,17 @@
             "lp": 95,
             "winsAndLosses": "18W 19L",
             "winRate": 48
+        },
+        {
+            "name": "9 11 roleplayer#NA1",
+            "iconId": 6066,
+            "opggAccountRoute": "na/911roleplayer-NA1",
+            "server": "NA",
+            "rankIndex": 4,
+            "division": 4,
+            "lp": 80,
+            "winsAndLosses": "33W 43L",
+            "winRate": 43
         },
         {
             "name": "topdank#NA1",
@@ -266,9 +266,9 @@
             "winRate": 36
         },
         {
-            "name": "Noxian Femcel#EUW",
+            "name": "Noxian Femcel#TROCA",
             "iconId": 6097,
-            "opggAccountRoute": "euw/NoxianFemcel-EUW",
+            "opggAccountRoute": "euw/NoxianFemcel-TROCA",
             "server": "EUW",
             "rankIndex": 6,
             "division": 1,
@@ -283,20 +283,9 @@
             "server": "NA",
             "rankIndex": 6,
             "division": 2,
-            "lp": 52,
-            "winsAndLosses": "165W 141L",
+            "lp": 51,
+            "winsAndLosses": "167W 143L",
             "winRate": 53
-        },
-        {
-            "name": "connordavisj#Kali",
-            "iconId": 5994,
-            "opggAccountRoute": "na/connordavisj-Kali",
-            "server": "NA",
-            "rankIndex": 6,
-            "division": 2,
-            "lp": 3,
-            "winsAndLosses": "40W 39L",
-            "winRate": 50
         },
         {
             "name": "SorcShoes#NA1",
@@ -321,14 +310,25 @@
             "winRate": 60
         },
         {
+            "name": "connordavisj#Kali",
+            "iconId": 5994,
+            "opggAccountRoute": "na/connordavisj-Kali",
+            "server": "NA",
+            "rankIndex": 6,
+            "division": 3,
+            "lp": 50,
+            "winsAndLosses": "40W 42L",
+            "winRate": 48
+        },
+        {
             "name": "MorgsMid#NA1",
             "iconId": 5122,
             "opggAccountRoute": "na/MorgsMid-NA1",
             "server": "NA",
             "rankIndex": 6,
             "division": 3,
-            "lp": 15,
-            "winsAndLosses": "56W 79L",
+            "lp": 23,
+            "winsAndLosses": "57W 80L",
             "winRate": 41
         },
         {
@@ -360,9 +360,9 @@
             "server": "NA",
             "rankIndex": 6,
             "division": 4,
-            "lp": 58,
-            "winsAndLosses": "77W 77L",
-            "winRate": 50
+            "lp": 34,
+            "winsAndLosses": "77W 78L",
+            "winRate": 49
         },
         {
             "name": "bestinu#NA1",
@@ -465,6 +465,12 @@
             "iconId": 5922,
             "opggAccountRoute": "euw/CuteGwenSissy-EUW",
             "server": "EUW",
+            "rankIndex": 99
+        },
+        {
+            "name": "RenTheCat#LAS",
+            "opggAccountRoute": "las/RenTheCat-LAS",
+            "server": "LAS",
             "rankIndex": 99
         },
         {
