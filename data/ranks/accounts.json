@@ -1,7 +1,7 @@
 {
     "info": "lolgtards data",
-    "timestampStart": 1701246384149,
-    "timestampEnd": 1701246405111,
+    "timestampStart": 1701277021110,
+    "timestampEnd": 1701277042018,
     "data": [
         {
             "name": "pompom#rank1",
@@ -45,9 +45,9 @@
             "server": "EUW",
             "rankIndex": 3,
             "division": 2,
-            "lp": 6,
-            "winsAndLosses": "288W 256L",
-            "winRate": 52
+            "lp": 28,
+            "winsAndLosses": "289W 256L",
+            "winRate": 53
         },
         {
             "name": "黑鬼杀手#TND7",
@@ -56,8 +56,8 @@
             "server": "EUNE",
             "rankIndex": 3,
             "division": 3,
-            "lp": 34,
-            "winsAndLosses": "62W 37L",
+            "lp": 72,
+            "winsAndLosses": "64W 38L",
             "winRate": 62,
             "notes": [
                 "janna otp",
@@ -109,6 +109,17 @@
             "winRate": 51
         },
         {
+            "name": "RenTheCat#LAS",
+            "iconId": 3371,
+            "opggAccountRoute": "las/RenTheCat-LAS",
+            "server": "LAS",
+            "rankIndex": 3,
+            "division": 4,
+            "lp": 0,
+            "winsAndLosses": "158W 172L",
+            "winRate": 47
+        },
+        {
             "name": "Auræ#IZZY",
             "iconId": 5865,
             "opggAccountRoute": "euw/Auræ-IZZY",
@@ -148,8 +159,8 @@
             "server": "NA",
             "rankIndex": 4,
             "division": 3,
-            "lp": 0,
-            "winsAndLosses": "530W 522L",
+            "lp": 15,
+            "winsAndLosses": "532W 523L",
             "winRate": 50
         },
         {
@@ -266,6 +277,17 @@
             "winRate": 36
         },
         {
+            "name": "need vampire gf#EUW",
+            "iconId": 5957,
+            "opggAccountRoute": "euw/needvampiregf-EUW",
+            "server": "EUW",
+            "rankIndex": 5,
+            "division": 4,
+            "lp": 1,
+            "winsAndLosses": "21W 18L",
+            "winRate": 53
+        },
+        {
             "name": "Noxian Femcel#TROCA",
             "iconId": 6097,
             "opggAccountRoute": "euw/NoxianFemcel-TROCA",
@@ -283,9 +305,9 @@
             "server": "NA",
             "rankIndex": 6,
             "division": 2,
-            "lp": 51,
-            "winsAndLosses": "167W 143L",
-            "winRate": 53
+            "lp": 79,
+            "winsAndLosses": "168W 143L",
+            "winRate": 54
         },
         {
             "name": "SorcShoes#NA1",
@@ -404,9 +426,9 @@
             "server": "NA",
             "rankIndex": 7,
             "division": 2,
-            "lp": 12,
-            "winsAndLosses": "10W 9L",
-            "winRate": 52
+            "lp": 0,
+            "winsAndLosses": "10W 10L",
+            "winRate": 50
         },
         {
             "name": "Azakana#NA1",
@@ -448,8 +470,8 @@
             "server": "EUW",
             "rankIndex": 8,
             "division": 4,
-            "lp": 25,
-            "winsAndLosses": "342W 344L",
+            "lp": 0,
+            "winsAndLosses": "342W 346L",
             "winRate": 49
         },
         {
@@ -465,12 +487,6 @@
             "iconId": 5922,
             "opggAccountRoute": "euw/CuteGwenSissy-EUW",
             "server": "EUW",
-            "rankIndex": 99
-        },
-        {
-            "name": "RenTheCat#LAS",
-            "opggAccountRoute": "las/RenTheCat-LAS",
-            "server": "LAS",
             "rankIndex": 99
         },
         {
