@@ -1,7 +1,7 @@
 {
     "info": "lolgtards data",
-    "timestampStart": 1701277021110,
-    "timestampEnd": 1701277042018,
+    "timestampStart": 1701344447540,
+    "timestampEnd": 1701344469966,
     "data": [
         {
             "name": "pompom#rank1",
@@ -10,8 +10,8 @@
             "server": "EUW",
             "rankIndex": 0,
             "division": 1,
-            "lp": 1348,
-            "winsAndLosses": "253W 180L",
+            "lp": 1321,
+            "winsAndLosses": "253W 181L",
             "winRate": 58,
             "alias": "bad person"
         },
@@ -33,8 +33,8 @@
             "server": "NA",
             "rankIndex": 3,
             "division": 2,
-            "lp": 72,
-            "winsAndLosses": "52W 53L",
+            "lp": 38,
+            "winsAndLosses": "53W 55L",
             "winRate": 49,
             "alias": "Doja Yuumii"
         },
@@ -65,14 +65,25 @@
             ]
         },
         {
+            "name": "RenTheCat#LAS",
+            "iconId": 3371,
+            "opggAccountRoute": "las/RenTheCat-LAS",
+            "server": "LAS",
+            "rankIndex": 3,
+            "division": 3,
+            "lp": 4,
+            "winsAndLosses": "163W 172L",
+            "winRate": 48
+        },
+        {
             "name": "UR PP SMALL#EUW",
             "iconId": 5982,
             "opggAccountRoute": "euw/URPPSMALL-EUW",
             "server": "EUW",
             "rankIndex": 3,
             "division": 4,
-            "lp": 40,
-            "winsAndLosses": "141W 132L",
+            "lp": 32,
+            "winsAndLosses": "144W 136L",
             "winRate": 51
         },
         {
@@ -107,17 +118,6 @@
             "lp": 1,
             "winsAndLosses": "228W 214L",
             "winRate": 51
-        },
-        {
-            "name": "RenTheCat#LAS",
-            "iconId": 3371,
-            "opggAccountRoute": "las/RenTheCat-LAS",
-            "server": "LAS",
-            "rankIndex": 3,
-            "division": 4,
-            "lp": 0,
-            "winsAndLosses": "158W 172L",
-            "winRate": 47
         },
         {
             "name": "Auræ#IZZY",
@@ -159,8 +159,8 @@
             "server": "NA",
             "rankIndex": 4,
             "division": 3,
-            "lp": 15,
-            "winsAndLosses": "532W 523L",
+            "lp": 10,
+            "winsAndLosses": "542W 532L",
             "winRate": 50
         },
         {
@@ -249,10 +249,10 @@
             "opggAccountRoute": "na/gourdon-FREE",
             "server": "NA",
             "rankIndex": 5,
-            "division": 3,
-            "lp": 69,
-            "winsAndLosses": "36W 31L",
-            "winRate": 53
+            "division": 2,
+            "lp": 31,
+            "winsAndLosses": "38W 31L",
+            "winRate": 55
         },
         {
             "name": "Admiral Arya#INCEL",
@@ -299,26 +299,26 @@
             "winRate": 56
         },
         {
+            "name": "SorcShoes#NA1",
+            "iconId": 691,
+            "opggAccountRoute": "na/SorcShoes-NA1",
+            "server": "NA",
+            "rankIndex": 6,
+            "division": 2,
+            "lp": 67,
+            "winsAndLosses": "6W 4L",
+            "winRate": 60
+        },
+        {
             "name": "King Grey#NA1",
             "iconId": 659,
             "opggAccountRoute": "na/KingGrey-NA1",
             "server": "NA",
             "rankIndex": 6,
             "division": 2,
-            "lp": 79,
-            "winsAndLosses": "168W 143L",
-            "winRate": 54
-        },
-        {
-            "name": "SorcShoes#NA1",
-            "iconId": 691,
-            "opggAccountRoute": "na/SorcShoes-NA1",
-            "server": "NA",
-            "rankIndex": 6,
-            "division": 3,
-            "lp": 91,
-            "winsAndLosses": "4W 4L",
-            "winRate": 50
+            "lp": 57,
+            "winsAndLosses": "169W 145L",
+            "winRate": 53
         },
         {
             "name": "AscorbicAcid#1337",
@@ -349,9 +349,9 @@
             "server": "NA",
             "rankIndex": 6,
             "division": 3,
-            "lp": 23,
-            "winsAndLosses": "57W 80L",
-            "winRate": 41
+            "lp": 49,
+            "winsAndLosses": "58W 80L",
+            "winRate": 42
         },
         {
             "name": "SnowboundSeer#9878",
@@ -426,9 +426,9 @@
             "server": "NA",
             "rankIndex": 7,
             "division": 2,
-            "lp": 0,
-            "winsAndLosses": "10W 10L",
-            "winRate": 50
+            "lp": 31,
+            "winsAndLosses": "11W 10L",
+            "winRate": 52
         },
         {
             "name": "Azakana#NA1",
@@ -449,7 +449,7 @@
             "rankIndex": 7,
             "division": 4,
             "lp": 0,
-            "winsAndLosses": "129W 140L",
+            "winsAndLosses": "129W 141L",
             "winRate": 47
         },
         {
