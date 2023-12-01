@@ -1,7 +1,7 @@
 {
     "info": "lolgtards data",
-    "timestampStart": 1701394049103,
-    "timestampEnd": 1701394070413,
+    "timestampStart": 1701446863379,
+    "timestampEnd": 1701446885640,
     "data": [
         {
             "name": "pompom#rank1",
@@ -43,10 +43,10 @@
             "opggAccountRoute": "eune/黑鬼杀手-TND7",
             "server": "EUNE",
             "rankIndex": 3,
-            "division": 2,
-            "lp": 0,
-            "winsAndLosses": "65W 39L",
-            "winRate": 62,
+            "division": 3,
+            "lp": 5,
+            "winsAndLosses": "65W 42L",
+            "winRate": 60,
             "notes": [
                 "janna otp",
                 "endless' duo"
@@ -64,17 +64,6 @@
             "winRate": 48
         },
         {
-            "name": "UR PP SMALL#EUW",
-            "iconId": 5982,
-            "opggAccountRoute": "euw/URPPSMALL-EUW",
-            "server": "EUW",
-            "rankIndex": 3,
-            "division": 4,
-            "lp": 32,
-            "winsAndLosses": "144W 136L",
-            "winRate": 51
-        },
-        {
             "name": "Hang junglers#1341",
             "iconId": 21,
             "opggAccountRoute": "na/Hangjunglers-1341",
@@ -84,6 +73,17 @@
             "lp": 21,
             "winsAndLosses": "98W 73L",
             "winRate": 57
+        },
+        {
+            "name": "UR PP SMALL#EUW",
+            "iconId": 5982,
+            "opggAccountRoute": "euw/URPPSMALL-EUW",
+            "server": "EUW",
+            "rankIndex": 3,
+            "division": 4,
+            "lp": 20,
+            "winsAndLosses": "146W 138L",
+            "winRate": 51
         },
         {
             "name": "LilliaButtWiggle#NA1",
@@ -170,8 +170,8 @@
             "server": "NA",
             "rankIndex": 4,
             "division": 4,
-            "lp": 75,
-            "winsAndLosses": "544W 536L",
+            "lp": 35,
+            "winsAndLosses": "550W 546L",
             "winRate": 50
         },
         {
@@ -231,17 +231,6 @@
             "lp": 84,
             "winsAndLosses": "23W 20L",
             "winRate": 53
-        },
-        {
-            "name": "gourdon#FREE",
-            "iconId": 938,
-            "opggAccountRoute": "na/gourdon-FREE",
-            "server": "NA",
-            "rankIndex": 5,
-            "division": 2,
-            "lp": 31,
-            "winsAndLosses": "38W 31L",
-            "winRate": 55
         },
         {
             "name": "gourdon#FREE",
@@ -343,17 +332,6 @@
             "winRate": 48
         },
         {
-            "name": "MorgsMid#NA1",
-            "iconId": 5122,
-            "opggAccountRoute": "na/MorgsMid-NA1",
-            "server": "NA",
-            "rankIndex": 6,
-            "division": 3,
-            "lp": 25,
-            "winsAndLosses": "58W 81L",
-            "winRate": 41
-        },
-        {
             "name": "SnowboundSeer#9878",
             "iconId": 3614,
             "opggAccountRoute": "na/SnowboundSeer-9878",
@@ -363,6 +341,17 @@
             "lp": 14,
             "winsAndLosses": "9W 10L",
             "winRate": 47
+        },
+        {
+            "name": "MorgsMid#NA1",
+            "iconId": 5122,
+            "opggAccountRoute": "na/MorgsMid-NA1",
+            "server": "NA",
+            "rankIndex": 6,
+            "division": 3,
+            "lp": 0,
+            "winsAndLosses": "58W 82L",
+            "winRate": 41
         },
         {
             "name": "STEEL M3NTAL#NA1",
