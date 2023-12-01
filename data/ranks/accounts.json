@@ -1,7 +1,7 @@
 {
     "info": "lolgtards data",
-    "timestampStart": 1701344447540,
-    "timestampEnd": 1701344469966,
+    "timestampStart": 1701394049103,
+    "timestampEnd": 1701394070413,
     "data": [
         {
             "name": "pompom#rank1",
@@ -27,18 +27,6 @@
             "winRate": 53
         },
         {
-            "name": "I int your promo#9999",
-            "iconId": 6031,
-            "opggAccountRoute": "na/Iintyourpromo-9999",
-            "server": "NA",
-            "rankIndex": 3,
-            "division": 2,
-            "lp": 38,
-            "winsAndLosses": "53W 55L",
-            "winRate": 49,
-            "alias": "Doja Yuumii"
-        },
-        {
             "name": "StueyEddie#Stuey",
             "iconId": 6246,
             "opggAccountRoute": "euw/StueyEddie-Stuey",
@@ -55,9 +43,9 @@
             "opggAccountRoute": "eune/黑鬼杀手-TND7",
             "server": "EUNE",
             "rankIndex": 3,
-            "division": 3,
-            "lp": 72,
-            "winsAndLosses": "64W 38L",
+            "division": 2,
+            "lp": 0,
+            "winsAndLosses": "65W 39L",
             "winRate": 62,
             "notes": [
                 "janna otp",
@@ -70,9 +58,9 @@
             "opggAccountRoute": "las/RenTheCat-LAS",
             "server": "LAS",
             "rankIndex": 3,
-            "division": 3,
-            "lp": 4,
-            "winsAndLosses": "163W 172L",
+            "division": 4,
+            "lp": 46,
+            "winsAndLosses": "165W 177L",
             "winRate": 48
         },
         {
@@ -121,14 +109,15 @@
         },
         {
             "name": "Auræ#IZZY",
-            "iconId": 5865,
+            "iconId": 6064,
             "opggAccountRoute": "euw/Auræ-IZZY",
             "server": "EUW",
             "rankIndex": 4,
             "division": 3,
             "lp": 81,
             "winsAndLosses": "41W 50L",
-            "winRate": 45
+            "winRate": 45,
+            "alias": "Stay positive!"
         },
         {
             "name": "SEE YOU IN HELL#NA1",
@@ -153,17 +142,6 @@
             "winRate": 46
         },
         {
-            "name": "vex briar lover#NA1",
-            "iconId": 6224,
-            "opggAccountRoute": "na/vexbriarlover-NA1",
-            "server": "NA",
-            "rankIndex": 4,
-            "division": 3,
-            "lp": 10,
-            "winsAndLosses": "542W 532L",
-            "winRate": 50
-        },
-        {
             "name": "Throwmatic#EUW",
             "iconId": 4961,
             "opggAccountRoute": "euw/Throwmatic-EUW",
@@ -176,14 +154,25 @@
         },
         {
             "name": "9 11 roleplayer#NA1",
-            "iconId": 6066,
+            "iconId": 6011,
             "opggAccountRoute": "na/911roleplayer-NA1",
             "server": "NA",
             "rankIndex": 4,
             "division": 4,
             "lp": 80,
-            "winsAndLosses": "33W 43L",
+            "winsAndLosses": "34W 44L",
             "winRate": 43
+        },
+        {
+            "name": "vex briar lover#NA1",
+            "iconId": 6224,
+            "opggAccountRoute": "na/vexbriarlover-NA1",
+            "server": "NA",
+            "rankIndex": 4,
+            "division": 4,
+            "lp": 75,
+            "winsAndLosses": "544W 536L",
+            "winRate": 50
         },
         {
             "name": "topdank#NA1",
@@ -242,6 +231,17 @@
             "lp": 84,
             "winsAndLosses": "23W 20L",
             "winRate": 53
+        },
+        {
+            "name": "gourdon#FREE",
+            "iconId": 938,
+            "opggAccountRoute": "na/gourdon-FREE",
+            "server": "NA",
+            "rankIndex": 5,
+            "division": 2,
+            "lp": 31,
+            "winsAndLosses": "38W 31L",
+            "winRate": 55
         },
         {
             "name": "gourdon#FREE",
@@ -349,9 +349,9 @@
             "server": "NA",
             "rankIndex": 6,
             "division": 3,
-            "lp": 49,
-            "winsAndLosses": "58W 80L",
-            "winRate": 42
+            "lp": 25,
+            "winsAndLosses": "58W 81L",
+            "winRate": 41
         },
         {
             "name": "SnowboundSeer#9878",
@@ -432,7 +432,7 @@
         },
         {
             "name": "Azakana#NA1",
-            "iconId": 4959,
+            "iconId": 5051,
             "opggAccountRoute": "na/Azakana-NA1",
             "server": "NA",
             "rankIndex": 7,
