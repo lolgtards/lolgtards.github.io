@@ -1,7 +1,7 @@
 {
     "info": "lolgtards data",
-    "timestampStart": 1701503989136,
-    "timestampEnd": 1701504019152,
+    "timestampStart": 1701591711925,
+    "timestampEnd": 1701591862630,
     "data": [
         {
             "name": "pompom#rank1",
@@ -43,14 +43,36 @@
             "opggAccountRoute": "eune/黑鬼杀手-TND7",
             "server": "EUNE",
             "rankIndex": 3,
-            "division": 3,
-            "lp": 5,
-            "winsAndLosses": "65W 42L",
+            "division": 4,
+            "lp": 75,
+            "winsAndLosses": "65W 43L",
             "winRate": 60,
             "notes": [
                 "janna otp",
                 "endless' duo"
             ]
+        },
+        {
+            "name": "UR PP SMALL#EUW",
+            "iconId": 5982,
+            "opggAccountRoute": "euw/URPPSMALL-EUW",
+            "server": "EUW",
+            "rankIndex": 3,
+            "division": 4,
+            "lp": 40,
+            "winsAndLosses": "147W 138L",
+            "winRate": 51
+        },
+        {
+            "name": "RenTheCat#LAS",
+            "iconId": 3371,
+            "opggAccountRoute": "las/RenTheCat-LAS",
+            "server": "LAS",
+            "rankIndex": 3,
+            "division": 4,
+            "lp": 27,
+            "winsAndLosses": "171W 182L",
+            "winRate": 48
         },
         {
             "name": "Hang junglers#1341",
@@ -62,28 +84,6 @@
             "lp": 21,
             "winsAndLosses": "98W 73L",
             "winRate": 57
-        },
-        {
-            "name": "UR PP SMALL#EUW",
-            "iconId": 5982,
-            "opggAccountRoute": "euw/URPPSMALL-EUW",
-            "server": "EUW",
-            "rankIndex": 3,
-            "division": 4,
-            "lp": 20,
-            "winsAndLosses": "146W 138L",
-            "winRate": 51
-        },
-        {
-            "name": "RenTheCat#LAS",
-            "iconId": 3371,
-            "opggAccountRoute": "las/RenTheCat-LAS",
-            "server": "LAS",
-            "rankIndex": 3,
-            "division": 4,
-            "lp": 16,
-            "winsAndLosses": "169W 181L",
-            "winRate": 48
         },
         {
             "name": "LilliaButtWiggle#NA1",
@@ -108,16 +108,15 @@
             "winRate": 51
         },
         {
-            "name": "Auræ#IZZY",
-            "iconId": 6064,
-            "opggAccountRoute": "euw/Auræ-IZZY",
-            "server": "EUW",
+            "name": "vex briar lover#NA1",
+            "iconId": 6224,
+            "opggAccountRoute": "na/vexbriarlover-NA1",
+            "server": "NA",
             "rankIndex": 4,
-            "division": 2,
-            "lp": 10,
-            "winsAndLosses": "42W 50L",
-            "winRate": 45,
-            "alias": "Stay positive!"
+            "division": 3,
+            "lp": 98,
+            "winsAndLosses": "572W 559L",
+            "winRate": 50
         },
         {
             "name": "SEE YOU IN HELL#NA1",
@@ -131,15 +130,27 @@
             "winRate": 63
         },
         {
+            "name": "Auræ#IZZY",
+            "iconId": 6064,
+            "opggAccountRoute": "euw/Auræ-IZZY",
+            "server": "EUW",
+            "rankIndex": 4,
+            "division": 3,
+            "lp": 52,
+            "winsAndLosses": "42W 53L",
+            "winRate": 44,
+            "alias": "Stay positive!"
+        },
+        {
             "name": "Firestorm#Night",
             "iconId": 6272,
             "opggAccountRoute": "euw/Firestorm-Night",
             "server": "EUW",
             "rankIndex": 4,
             "division": 3,
-            "lp": 70,
-            "winsAndLosses": "50W 57L",
-            "winRate": 46
+            "lp": 3,
+            "winsAndLosses": "51W 61L",
+            "winRate": 45
         },
         {
             "name": "Throwmatic#EUW",
@@ -162,17 +173,6 @@
             "lp": 80,
             "winsAndLosses": "34W 44L",
             "winRate": 43
-        },
-        {
-            "name": "vex briar lover#NA1",
-            "iconId": 6224,
-            "opggAccountRoute": "na/vexbriarlover-NA1",
-            "server": "NA",
-            "rankIndex": 4,
-            "division": 4,
-            "lp": 74,
-            "winsAndLosses": "558W 551L",
-            "winRate": 50
         },
         {
             "name": "topdank#NA1",
@@ -288,6 +288,17 @@
             "winRate": 56
         },
         {
+            "name": "connordavisj#Kali",
+            "iconId": 5994,
+            "opggAccountRoute": "na/connordavisj-Kali",
+            "server": "NA",
+            "rankIndex": 6,
+            "division": 1,
+            "lp": 4,
+            "winsAndLosses": "46W 42L",
+            "winRate": 52
+        },
+        {
             "name": "SorcShoes#NA1",
             "iconId": 691,
             "opggAccountRoute": "na/SorcShoes-NA1",
@@ -305,20 +316,9 @@
             "server": "NA",
             "rankIndex": 6,
             "division": 2,
-            "lp": 57,
-            "winsAndLosses": "169W 145L",
+            "lp": 58,
+            "winsAndLosses": "172W 148L",
             "winRate": 53
-        },
-        {
-            "name": "connordavisj#Kali",
-            "iconId": 5994,
-            "opggAccountRoute": "na/connordavisj-Kali",
-            "server": "NA",
-            "rankIndex": 6,
-            "division": 2,
-            "lp": 21,
-            "winsAndLosses": "43W 42L",
-            "winRate": 50
         },
         {
             "name": "AscorbicAcid#1337",
