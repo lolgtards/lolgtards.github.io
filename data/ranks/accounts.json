@@ -1,7 +1,7 @@
 {
     "info": "lolgtards data",
-    "timestampStart": 1701766780195,
-    "timestampEnd": 1701766933907,
+    "timestampStart": 1701768754971,
+    "timestampEnd": 1701768912656,
     "data": [
         {
             "name": "pompom#rank1",
@@ -27,6 +27,28 @@
             "winRate": 47
         },
         {
+            "name": "Raquan#2216",
+            "iconId": 867,
+            "opggAccountRoute": "na/Raquan-2216",
+            "server": "NA",
+            "rankIndex": 2,
+            "division": 1,
+            "lp": 41,
+            "winsAndLosses": "196W 218L",
+            "winRate": 47
+        },
+        {
+            "name": "Hibiki#037",
+            "iconId": 4532,
+            "opggAccountRoute": "na/Hibiki-037",
+            "server": "NA",
+            "rankIndex": 2,
+            "division": 1,
+            "lp": 29,
+            "winsAndLosses": "48W 41L",
+            "winRate": 53
+        },
+        {
             "name": "Doja Yuumi#IintU",
             "iconId": 6300,
             "opggAccountRoute": "na/DojaYuumi-IintU",
@@ -38,6 +60,17 @@
             "winRate": 52
         },
         {
+            "name": "butta#001",
+            "iconId": 4082,
+            "opggAccountRoute": "na/butta-001",
+            "server": "NA",
+            "rankIndex": 3,
+            "division": 1,
+            "lp": 9,
+            "winsAndLosses": "23W 15L",
+            "winRate": 60
+        },
+        {
             "name": "MyItchyPness#NA1",
             "iconId": 5534,
             "opggAccountRoute": "na/MyItchyPness-NA1",
@@ -47,6 +80,17 @@
             "lp": 75,
             "winsAndLosses": "76W 67L",
             "winRate": 53
+        },
+        {
+            "name": "WhatsInItForMe#NA1",
+            "iconId": 6201,
+            "opggAccountRoute": "na/WhatsInItForMe-NA1",
+            "server": "NA",
+            "rankIndex": 3,
+            "division": 2,
+            "lp": 75,
+            "winsAndLosses": "38W 27L",
+            "winRate": 58
         },
         {
             "name": "StueyEddie#Stuey",
@@ -484,6 +528,13 @@
             "lp": 0,
             "winsAndLosses": "343W 348L",
             "winRate": 49
+        },
+        {
+            "name": "Lymia#123",
+            "iconId": 23,
+            "opggAccountRoute": "na/Lymia-123",
+            "server": "NA",
+            "rankIndex": 99
         },
         {
             "name": "Jupy#uoh",
