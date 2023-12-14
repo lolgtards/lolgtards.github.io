@@ -1,7 +1,7 @@
 {
     "info": "lolgtards data",
-    "timestampStart": 1702034548731,
-    "timestampEnd": 1702034703160,
+    "timestampStart": 1702533291970,
+    "timestampEnd": 1702533446450,
     "data": [
         {
             "name": "pompom#rank1",
@@ -10,20 +10,20 @@
             "server": "EUW",
             "rankIndex": 0,
             "division": 1,
-            "lp": 1346,
-            "winsAndLosses": "257W 183L",
+            "lp": 1337,
+            "winsAndLosses": "258W 184L",
             "winRate": 58,
             "alias": "bad person"
         },
         {
             "name": "Hibiki#037",
-            "iconId": 4532,
+            "iconId": 6036,
             "opggAccountRoute": "na/Hibiki-037",
             "server": "NA",
             "rankIndex": 2,
             "division": 1,
-            "lp": 29,
-            "winsAndLosses": "48W 41L",
+            "lp": 31,
+            "winsAndLosses": "52W 45L",
             "winRate": 53
         },
         {
@@ -34,7 +34,7 @@
             "rankIndex": 2,
             "division": 1,
             "lp": 1,
-            "winsAndLosses": "203W 226L",
+            "winsAndLosses": "207W 231L",
             "winRate": 47
         },
         {
@@ -71,6 +71,17 @@
             "winRate": 53
         },
         {
+            "name": "Heavens Karma#NA1",
+            "iconId": 6046,
+            "opggAccountRoute": "na/HeavensKarma-NA1",
+            "server": "NA",
+            "rankIndex": 3,
+            "division": 2,
+            "lp": 75,
+            "winsAndLosses": "163W 187L",
+            "winRate": 46
+        },
+        {
             "name": "WhatsInItForMe#NA1",
             "iconId": 6201,
             "opggAccountRoute": "na/WhatsInItForMe-NA1",
@@ -82,26 +93,15 @@
             "winRate": 58
         },
         {
-            "name": "Heavens Karma#NA1",
-            "iconId": 6046,
-            "opggAccountRoute": "na/HeavensKarma-NA1",
-            "server": "NA",
-            "rankIndex": 3,
-            "division": 2,
-            "lp": 47,
-            "winsAndLosses": "132W 157L",
-            "winRate": 45
-        },
-        {
             "name": "StueyEddie#Stuey",
             "iconId": 6246,
             "opggAccountRoute": "euw/StueyEddie-Stuey",
             "server": "EUW",
             "rankIndex": 3,
             "division": 2,
-            "lp": 45,
-            "winsAndLosses": "292W 258L",
-            "winRate": 53
+            "lp": 22,
+            "winsAndLosses": "294W 261L",
+            "winRate": 52
         },
         {
             "name": "黑鬼杀手#TND7",
@@ -158,8 +158,8 @@
             "server": "LAS",
             "rankIndex": 3,
             "division": 4,
-            "lp": 1,
-            "winsAndLosses": "174W 185L",
+            "lp": 0,
+            "winsAndLosses": "175W 186L",
             "winRate": 48
         },
         {
@@ -186,7 +186,7 @@
         },
         {
             "name": "Auræ#IZZY",
-            "iconId": 3867,
+            "iconId": 3231,
             "opggAccountRoute": "euw/Auræ-IZZY",
             "server": "EUW",
             "rankIndex": 4,
@@ -198,7 +198,7 @@
         },
         {
             "name": "Firestorm#Night",
-            "iconId": 6272,
+            "iconId": 6388,
             "opggAccountRoute": "euw/Firestorm-Night",
             "server": "EUW",
             "rankIndex": 4,
@@ -219,28 +219,6 @@
             "winRate": 48
         },
         {
-            "name": "9 11 roleplayer#NA1",
-            "iconId": 6011,
-            "opggAccountRoute": "na/911roleplayer-NA1",
-            "server": "NA",
-            "rankIndex": 4,
-            "division": 4,
-            "lp": 80,
-            "winsAndLosses": "34W 44L",
-            "winRate": 43
-        },
-        {
-            "name": "vex briar lover#NA1",
-            "iconId": 6224,
-            "opggAccountRoute": "na/vexbriarlover-NA1",
-            "server": "NA",
-            "rankIndex": 4,
-            "division": 4,
-            "lp": 66,
-            "winsAndLosses": "606W 599L",
-            "winRate": 50
-        },
-        {
             "name": "topdank#NA1",
             "iconId": 4070,
             "opggAccountRoute": "na/topdank-NA1",
@@ -253,7 +231,7 @@
         },
         {
             "name": "JellyfishSloth#NA1",
-            "iconId": 6451,
+            "iconId": 6426,
             "opggAccountRoute": "na/JellyfishSloth-NA1",
             "server": "NA",
             "rankIndex": 4,
@@ -264,7 +242,7 @@
         },
         {
             "name": "tazmir phd#NA1",
-            "iconId": 5976,
+            "iconId": 3867,
             "opggAccountRoute": "na/tazmirphd-NA1",
             "server": "NA",
             "rankIndex": 4,
@@ -288,6 +266,28 @@
             "winRate": 52
         },
         {
+            "name": "vex briar lover#NA1",
+            "iconId": 6224,
+            "opggAccountRoute": "na/vexbriarlover-NA1",
+            "server": "NA",
+            "rankIndex": 4,
+            "division": 4,
+            "lp": 0,
+            "winsAndLosses": "648W 647L",
+            "winRate": 50
+        },
+        {
+            "name": "9 11 roleplayer#NA1",
+            "iconId": 6011,
+            "opggAccountRoute": "na/911roleplayer-NA1",
+            "server": "NA",
+            "rankIndex": 4,
+            "division": 4,
+            "lp": 0,
+            "winsAndLosses": "34W 48L",
+            "winRate": 41
+        },
+        {
             "name": "ZoeOrnnyForZoey#NA1",
             "iconId": 6362,
             "opggAccountRoute": "na/ZoeOrnnyForZoey-NA1",
@@ -305,9 +305,9 @@
             "server": "NA",
             "rankIndex": 5,
             "division": 2,
-            "lp": 27,
-            "winsAndLosses": "42W 38L",
-            "winRate": 52
+            "lp": 56,
+            "winsAndLosses": "43W 38L",
+            "winRate": 53
         },
         {
             "name": "Admiral Arya#INCEL",
@@ -343,6 +343,28 @@
             "winRate": 52
         },
         {
+            "name": "SorcShoes#NA1",
+            "iconId": 691,
+            "opggAccountRoute": "na/SorcShoes-NA1",
+            "server": "NA",
+            "rankIndex": 6,
+            "division": 1,
+            "lp": 43,
+            "winsAndLosses": "8W 4L",
+            "winRate": 66
+        },
+        {
+            "name": "AscorbicAcid#1337",
+            "iconId": 5867,
+            "opggAccountRoute": "na/AscorbicAcid-1337",
+            "server": "NA",
+            "rankIndex": 6,
+            "division": 1,
+            "lp": 36,
+            "winsAndLosses": "20W 11L",
+            "winRate": 64
+        },
+        {
             "name": "Noxian Femcel#TROCA",
             "iconId": 6097,
             "opggAccountRoute": "euw/NoxianFemcel-TROCA",
@@ -360,42 +382,20 @@
             "server": "NA",
             "rankIndex": 6,
             "division": 1,
-            "lp": 30,
-            "winsAndLosses": "48W 44L",
-            "winRate": 52
-        },
-        {
-            "name": "SorcShoes#NA1",
-            "iconId": 691,
-            "opggAccountRoute": "na/SorcShoes-NA1",
-            "server": "NA",
-            "rankIndex": 6,
-            "division": 2,
-            "lp": 67,
-            "winsAndLosses": "6W 4L",
-            "winRate": 60
-        },
-        {
-            "name": "AscorbicAcid#1337",
-            "iconId": 5867,
-            "opggAccountRoute": "na/AscorbicAcid-1337",
-            "server": "NA",
-            "rankIndex": 6,
-            "division": 3,
-            "lp": 74,
-            "winsAndLosses": "14W 9L",
-            "winRate": 60
+            "lp": 0,
+            "winsAndLosses": "49W 47L",
+            "winRate": 51
         },
         {
             "name": "King Grey#NA1",
-            "iconId": 5316,
+            "iconId": 4547,
             "opggAccountRoute": "na/KingGrey-NA1",
             "server": "NA",
             "rankIndex": 6,
-            "division": 3,
-            "lp": 50,
-            "winsAndLosses": "180W 161L",
-            "winRate": 52
+            "division": 2,
+            "lp": 34,
+            "winsAndLosses": "192W 169L",
+            "winRate": 53
         },
         {
             "name": "SnowboundSeer#9878",
@@ -421,7 +421,7 @@
         },
         {
             "name": "MorgsMid#NA1",
-            "iconId": 5122,
+            "iconId": 6423,
             "opggAccountRoute": "na/MorgsMid-NA1",
             "server": "NA",
             "rankIndex": 6,
@@ -443,7 +443,7 @@
         },
         {
             "name": "bestinu#NA1",
-            "iconId": 16,
+            "iconId": 6419,
             "opggAccountRoute": "na/bestinu-NA1",
             "server": "NA",
             "rankIndex": 7,
@@ -458,14 +458,14 @@
             "opggAccountRoute": "na/MissBehavior-NA1",
             "server": "NA",
             "rankIndex": 7,
-            "division": 2,
-            "lp": 98,
-            "winsAndLosses": "140W 118L",
+            "division": 1,
+            "lp": 17,
+            "winsAndLosses": "143W 121L",
             "winRate": 54
         },
         {
             "name": "DabsTheWonderCat#NA1",
-            "iconId": 6448,
+            "iconId": 6390,
             "opggAccountRoute": "na/DabsTheWonderCat-NA1",
             "server": "NA",
             "rankIndex": 7,
@@ -491,10 +491,10 @@
             "opggAccountRoute": "na/Azakana-NA1",
             "server": "NA",
             "rankIndex": 7,
-            "division": 3,
-            "lp": 25,
-            "winsAndLosses": "51W 50L",
-            "winRate": 50
+            "division": 4,
+            "lp": 52,
+            "winsAndLosses": "51W 53L",
+            "winRate": 49
         },
         {
             "name": "Pieps#2INT",
@@ -525,13 +525,13 @@
             "server": "EUW",
             "rankIndex": 8,
             "division": 4,
-            "lp": 75,
-            "winsAndLosses": "347W 350L",
+            "lp": 21,
+            "winsAndLosses": "349W 354L",
             "winRate": 49
         },
         {
             "name": "Lymia#123",
-            "iconId": 6108,
+            "iconId": 23,
             "opggAccountRoute": "na/Lymia-123",
             "server": "NA",
             "rankIndex": 99
@@ -577,7 +577,7 @@
         },
         {
             "name": "b3llamy#NA1",
-            "iconId": 4555,
+            "iconId": 6401,
             "opggAccountRoute": "na/b3llamy-NA1",
             "server": "NA",
             "rankIndex": 99
